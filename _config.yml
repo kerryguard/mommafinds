@@ -1,38 +1,26 @@
-exclude:
-  - "/vendor/"
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "README.md"
-  - "LICENSE.md"
-  - "*.gemspec"
+# Site settings
+title:          MommaFinds
+description:    "Helping Mommas find the happy medium."
+baseurl:        "/"
+url:            "https://www.mommafinds.com"
 
-
-keep_files:
-  - "CNAME"
-  - ".git"
-  - ".gitignore"
-
-
-# Base URL of site. It should always start with a slash,
-# and never end with a slash. Set it to a blank value if hosting at the
-# root of your server.
-# baseurl: "/" # the subpath of your site
-url: "https://www.mommafinds.com" # the base hostname & protocol for your site
-
-permalink: /:collection/:path/
+# Author
+author:
+  name:         Kerry Guard
+  email:        mommafinds2017@gmail.com
 
 # Build settings
-markdown: kramdown
+markdown:       kramdown
 
-# Category descriptions (for archive pages)
-descriptions:
-  - category: news
-    desc: "World happenings that inpact momma's specifically."
-  - category: products
-    desc: "Products from everyday to novelty that could make your life as a momma easier."
-  - category: video channels
-    desc: "Video channels to follow via social media that can make you laugh until you cry."
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
 
-gems:
-   - jekyll-feed
-   - jekyll-sitemap
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink:      pretty
+paginate:       5
