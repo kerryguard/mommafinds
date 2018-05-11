@@ -16,6 +16,7 @@ footer,
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
+  background-color:#fff;
 
   &-container {
     margin: 1rem auto;
@@ -62,7 +63,7 @@ footer,
   }
 
   a {
-    color: $default-color;
+    color: $purple;
     font-family: $sans-serif;
   }
 }

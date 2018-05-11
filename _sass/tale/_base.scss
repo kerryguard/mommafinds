@@ -64,4 +64,10 @@ td {
   vertical-align: top;
 }
 
-body #mc_embed_signup form {text-align: left;}
+body #mc_embed_signup form {text-align: left;
+  input:hover {
+    opacity: .6;
+  }
+
+
+}
