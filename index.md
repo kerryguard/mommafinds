@@ -11,7 +11,7 @@ The only person who knows how to raise your baby, is you. There is no right or w
 
 There is however, a happy medium.
 
-Read this week's [newsletter](/2018/05/07/week-1/).
+Read this week's [newsletter](/2018/05/07/breastfeeding-formula/).
 
 ## Subscribe Today! ##
 
