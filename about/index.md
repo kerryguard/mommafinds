@@ -3,6 +3,7 @@ layout: post-img
 title: "About Kerry Guard Founder"
 author: "Kerry Guard"
 permalink: /about/
+img: kerry-guard
 ---
 
 Hello, and welcome to my weekly email newsletter, MommaFinds.
