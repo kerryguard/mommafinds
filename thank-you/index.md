@@ -6,7 +6,7 @@ permalink: /thank-you/
 img: twins
 ---
 
-**More the Merrier**
+## More the Merrier
 
 Being a mom is far easier when you have people to share motherhood with.
 
