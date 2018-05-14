@@ -16,4 +16,4 @@ Being a mom is far easier when you have people to share motherhood with.
 
 Share it with MommaFinds via
 
-[Email](newfind@mommafinds.com) [Facebook](https://www.facebook.com/mommafinds/) [Twitter](https://www.twitter.com/mommafinds/)
+[Email](http://us18.forward-to-friend.com/forward?u=196168a1df9d3aafab08f0b8c&id=062928092d&e=[UNIQID]) [Facebook](https://www.facebook.com/mommafinds/) [Twitter](https://www.twitter.com/mommafinds/)
