@@ -1,7 +1,7 @@
 # Site settings
 title:          MommaFinds
-description:    "Helping Mommas find the happy medium."
-url:            "https://www.mommafinds.com"
+description:    "Helping mommas find the happy medium."
+url:            https://www.mommafinds.com
 
 # Author
 author:
@@ -19,7 +19,6 @@ sass:
 # Gems
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
 
 # Permalinks
 permalink:      pretty
