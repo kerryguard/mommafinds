@@ -6,11 +6,15 @@ permalink: /thank-you/
 img: twins
 ---
 
+## Catch Up
+
+[Here is a link to the archive of letters.](http://www.mommafinds.com)
+
 ## More the Merrier
 
 Being a mom is far easier when you have people to share motherhood with.
 
-[Tell your friends!]()
+[Tell your friends!](http://us18.forward-to-friend.com/forward?u=196168a1df9d3aafab08f0b8c&id=cc423bd59d&e=)
 
 ## Have a find?
 
