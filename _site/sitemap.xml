@@ -36,6 +36,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/gdpr-compliance-notice/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/thank-you/</loc>
 </url>
 <url>
