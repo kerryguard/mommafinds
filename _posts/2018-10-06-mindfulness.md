@@ -3,7 +3,7 @@ layout: post
 title: Being Mindful Doesn't Mean
 meta: Redefining and Simplifying what it means to practice Mindfulness. Find your happy medium.
 author: "Kerry"
-img: metime.jpg
+img: roses.jpg
 ---
 
 ![My Me Time](/assets/{{ page.img }})
