@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Being Mindful Doesn't Mean
+title: Mindfulnesses - Finding My Happy Medium
 meta: Redefining and Simplifying what it means to practice Mindfulness. Find your happy medium.
 author: "Kerry"
 img: roses.jpg
