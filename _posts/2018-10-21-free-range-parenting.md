@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Free Range Parenting Doesn't Happen Overnight
+title: Free Range Parenting Does Not Happen Overnight
 meta: Find your happy medium in helping your children develop independence within your comfort zone.
 author: "Kerry"
 img: free-range.jpg
