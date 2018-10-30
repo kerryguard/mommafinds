@@ -22,10 +22,11 @@ Either way, as you can see, both my three year olds, need that mid day pick me u
 
 And so do we.
 
-For two reasons.
+For two reasons:
 
 1. To afford our nanny we cut hours and have her only work until naps. The kids wake up at 3 where my husband hangs out with them until 4 then we all spend the rest of the afternoon and evening together.
 2. On the weekends we need time to reset to either to write newsletters, take naps, do laundry, or prepare for afternoon adventures like parties or mini road trips.
+
 ---
 
 ## TO TODDLER _NEED_ TO NAP?
@@ -57,4 +58,5 @@ However you help your child get some quiet time or much needed sleep in the midd
 So. Much. Forecasting. Best Pediatric advice I got from any doctor ever.
 
 We do two things. We don't let my daughter sleep past 7:30 and we don't let her nap longer than an hour and 45 minutes. She needs a LOT of sleep. My son on the other hand wakes up at 6:45 and we have him nap for only 90 minutes. He needs less. Remember it really depends on your kids. Look for their signs and decide what method - if any is right for you and them.
+
 ---
