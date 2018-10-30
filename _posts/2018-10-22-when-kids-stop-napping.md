@@ -12,7 +12,7 @@ img: naps.jpg
 
 ## TO NAP OR NOT TO NAP...
 
-Every once in awhile my daughter goes on a napping boycott. Now and again we've given in letting her have quiet time in her rom. But come 3 o'clock the toddler monster unleashes ungodly sobs and tantrums on the whole family to which there is no escape. She gets clumsy and mostly defiant. The girl needs to nap.
+Every once in awhile my daughter goes on a napping boycott. Now and again we've given in letting her have quiet time in her room. But come 3 o'clock the toddler monster unleashes ungodly sobs and tantrums on the whole family from which there is no escape. She gets clumsy and mostly defiant. The girl needs to nap.
 
 But to get her to nap I found that I have to make sure she doesn't sleep past 7:30 in the morning. If she sleeps longer than that - naps are a no go and from 3 - 8PM we then have to tread lightly.
 
