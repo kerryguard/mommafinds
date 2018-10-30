@@ -41,7 +41,7 @@ The other thing that's true for my children is that [naps shouldn't be longer th
 
 ## WHAT HAPPENS IF THEY STOP NAPPING BEFORE AGE OF 5
 
-Experts say that if kids don't get enough sleep in that 24 hour period then they start to struggle in [learning, mood, and health](https://www.parents.com/toddlers-preschoolers/sleep/naps/i-dont-wanna-nap/. Even having mid-day downtime to just sit in a quiet space could be enough of a reset to help in these areas if a child isn't napping but showing signs that they're cranky.
+Experts say that if kids don't get enough sleep in that 24 hour period then they start to struggle in [learning, mood, and health](https://www.parents.com/toddlers-preschoolers/sleep/naps/i-dont-wanna-nap/). Even having mid-day downtime to just sit in a quiet space could be enough of a reset to help in these areas if a child isn't napping but showing signs that they're cranky.
 
 ---
 
