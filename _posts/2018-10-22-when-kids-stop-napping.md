@@ -29,7 +29,7 @@ For two reasons:
 
 ---
 
-## TO TODDLER _NEED_ TO NAP?
+## DO TODDLERS _NEED_ TO NAP?
 
 Short answer. Yes.
 
