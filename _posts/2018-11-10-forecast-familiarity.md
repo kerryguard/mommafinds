@@ -3,10 +3,10 @@ layout: post
 title: Minimize Toddler Tantrum With These Two Things
 meta: This was the best advice I got from a pediatrician and I take it with me EVERYWHERE.
 author: "Kerry"
-img: dst.jpg
+img: familiar.jpg
 ---
 
-![Daylight Savings Time](/assets/{{ page.img }})
+![Forecast for Toddlers and Keep Things Familiar](/assets/{{ page.img }})
 
 > Quote of the Week <br> "I don't know where I'm going, but I'm on my way!" <br> — Carl Sandberg"
 
