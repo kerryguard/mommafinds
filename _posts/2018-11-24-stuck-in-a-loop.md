@@ -8,7 +8,7 @@ img: loop.jpg
 
 ![Trust Your Instincts](/assets/{{ page.img }})
 
-> Quote of the Week <br> "The way we talk to our children<br>becomes their inner voice.<br>~ Peggy O'Mara.<br>They are messages from the soul."
+> Quote of the Week <br> "The way we talk to our children<br>becomes their inner voice.<br>~ Peggy O'Mara.
 
 ## STUCK IN A LOOP
 
