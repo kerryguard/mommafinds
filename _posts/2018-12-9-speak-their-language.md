@@ -3,10 +3,10 @@ layout: post
 title: Speak Their Language
 meta: As kids finesse their language skills they start to use certain words for certain things. If you want them to listen, especially when it's super important, use their words. They'll be better listeners.
 author: "Kerry"
-img: loop.jpg
+img: language.jpg
 ---
 
-![Trust Your Instincts](/assets/{{ page.img }})
+![Speak Their Language](/assets/{{ page.img }})
 
 > Quote of the Week <br> "The way we talk to our children<br>becomes their inner voice.<br>~ Peggy O'Mara.
 
