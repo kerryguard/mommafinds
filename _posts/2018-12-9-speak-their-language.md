@@ -26,7 +26,7 @@ The other reason my second approach worked is because I went to her. I stopped y
 
 ### YOUR LANGUAGE
 
-The third and finally reason this worked is because I explained WHY she needed to stop. Instead of just yelling stop from the kitchen, going over and saying how she could get her - gives her a reason to stop doing it. They are very logical human beings. If you give them a good, logical, reason for something, they'll listen.
+The third and finally reason this worked is because I explained WHY she needed to stop. Instead of just yelling stop from the kitchen, going over and saying how she could get hurt - gives her a reason to stop doing it. They are very logical human beings. If you give them a good, logical, reason for something, they'll listen.
 
 ___
 
