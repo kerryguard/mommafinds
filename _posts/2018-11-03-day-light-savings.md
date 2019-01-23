@@ -4,6 +4,7 @@ title: How To Survive Daylight Savings Time (DST)
 meta: Find your happy medium when tackling Daylight Savings Time, a major shift if your child's schedule.
 author: "Kerry"
 img: dst.jpg
+alt: Baby Steps
 ---
 
 ![Daylight Savings Time](/assets/{{ page.img }})

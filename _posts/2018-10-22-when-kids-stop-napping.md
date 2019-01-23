@@ -4,6 +4,7 @@ title: When Should Kids Stop Napping?
 meta: Find your happy medium naps. When should kids stop? What are the pros and cons to them stopping early.
 author: "Kerry"
 img: naps.jpg
+alt: Baby Napping
 ---
 
 ![Baby Napping](/assets/{{ page.img }})

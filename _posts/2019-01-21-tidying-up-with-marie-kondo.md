@@ -3,6 +3,8 @@ layout: post
 title: Tidying Up With Marie Kondo
 meta: Tidying Up with Marie brought me joy in each room I organized and into may day to day life. Find your happy medium in finding daily joy.
 author: "Kerry"
+alt: Tidying Up with Marie Kondo
+img: tidying.jpg
 ---
 
 

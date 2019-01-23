@@ -4,6 +4,7 @@ title: Minimize Toddler Tantrum With These Two Things
 meta: This was the best advice I got from a pediatrician and I take it with me EVERYWHERE.
 author: "Kerry"
 img: familiar.jpg
+alt: Toddler Walking With Stuffy
 ---
 
 ![Forecast for Toddlers and Keep Things Familiar](/assets/{{ page.img }})
