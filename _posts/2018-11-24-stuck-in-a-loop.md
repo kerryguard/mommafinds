@@ -4,7 +4,6 @@ title: Why Does Talking Toddler Get Stuck in a Loop
 meta: Our babies turn three today! And we've been noticing a rather frustrating pattern and here's what I found about why kids repeat themselves until you lose your mind.
 author: "Kerry"
 img: loop.jpg
-alt: Curious Toddler
 ---
 
 ![Trust Your Instincts](/assets/{{ page.img }})

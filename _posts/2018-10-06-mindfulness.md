@@ -4,10 +4,9 @@ title: Mindfulnesses - Finding My Happy Medium
 meta: Redefining and Simplifying what it means to practice Mindfulness. Find your happy medium.
 author: "Kerry"
 img: roses.jpg
-alt: Toddler Adventures 
 ---
 
-![My Me Time](/assets/{{ page.img }})
+![Toddler Adventures](/assets/{{ page.img }})
 
 > Quote of the Week <br> "Be. Here. Now."
 

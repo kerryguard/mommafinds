@@ -4,7 +4,6 @@ title: Speak Their Language
 meta: As kids finesse their language skills they start to use certain words for certain things. If you want them to listen, especially when it's super important, use their words. They'll be better listeners.
 author: "Kerry"
 img: language.jpg
-alt: Fearless Toddler
 ---
 
 ![Speak Their Language](/assets/{{ page.img }})

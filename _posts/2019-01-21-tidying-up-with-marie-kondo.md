@@ -3,10 +3,10 @@ layout: post
 title: Tidying Up With Marie Kondo
 meta: Tidying Up with Marie brought me joy in each room I organized and into may day to day life. Find your happy medium in finding daily joy.
 author: "Kerry"
-alt: Tidying Up with Marie Kondo
 img: tidying.jpg
 ---
 
+![Tidying Up with Marie Kondo](/assets/{{ page.img }})
 
 > Quote of the Week <br> "The Space In Which We Live Should Be For The Person We Are Becoming Now, Not For The Person We Were In The Past." ~ Marie Kondō
 
