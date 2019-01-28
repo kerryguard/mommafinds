@@ -30,7 +30,7 @@ ___
 
 ## CONS OF POSITIVE PARENT SOLUTIONS
 
-I will say overall - there's less yelling, nagging, and pleading. Let me be clear - there is less. I'm not find this as an absolute solution - yet anyway.
+I will say overall - there's less yelling, nagging, and pleading. Let me be clear - there is less. I'm not saying this as an absolute solution.
 
 Just today, the only tool I had that worked was walking away - to which point my daughter followed me down the hall in full tantrum. I dressed my son, then turned to my daughter and said in my "calm voice", "When you pick out your clothes, then I will help you get dressed."
 
