@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Kate Kelly's Newborn Essentials
+title: Kate's Newborn Essentials
 meta: Here is a list from a dear friend of the items she found to be essential when having a baby.
 author: "Kerry"
-img: kate-kelly.jpg
+img: frances-beatty-photography.jpg
 ---
 
 ![Kate's List of Essentials](/assets/{{ page.img }})
+_Photo by
 
 > Quote of the Week <br> "Love what is simple and beautiful.<br>These are the essentials." ~ Ralph Waldo Emerson
 
@@ -34,7 +35,7 @@ ___
 + This [bottle brush](https://amzn.to/2Gobb2j) is great - I have two!
 + Pumps:
 ++ Check with your insurance company - a lot of them cover your pump. I got the [Medela Advanced pump](https://amzn.to/2DRLwO0).
-++ I also have a [https://amzn.to/2UB77j9] for my purse, so if I'm out and baby isn't with me and I'm leaking I can at least save the results. This is also super helpful when you and husband are driving, baby starts crying and you can't nurse. Pump, drop on a bottle top and serve. Best to ride in the backseat with baby in those early months. Also, be sure to get a hand pump that matches your electric pump so the bottles are all in the same system.
+++ I also have a [https://amzn.to/2UB77j9] for my purse, so if I'm out and baby isn't with me and I'm leaking I can at least save the results. This is also super helpful when you and husband are driving, baby starts crying and you can't nurse. Pump, drop on a bottle top and serve. Best to ride in the backseat with baby in those early months. Also, be sure to get a [hand pump](https://amzn.to/2TDjNpE) that matches your electric pump so the bottles are all in the same system.
 ++ Get a hands-free pumping bra - I ended up really liking the [Rumina](https://www.amazon.com/gp/product/B009EDXZD8/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) ones but it's all about fit...
 ++ [These Boon Patch drying racks](http://www.amazon.com/gp/product/B00HDCGA0M?colid=ILDB7J3U9ZMR&coliid=IJD82RVI2WXKH&ref_=br_it_dp_o) are AMAZING - you can get the narrow kinds (which we have) or wide 'lawn' like ones. You'll also want the [Twig](http://www.amazon.com/gp/product/B007D1SHUY?colid=ILDB7J3U9ZMR&coliid=I3Q7T5YINI6HKX&redirect=true&ref_=br_it_dp_o_nS_ttl&vs=1) and [flower](http://www.amazon.com/gp/product/B005PRP8Q4?psc=1&redirect=true&ref_=oh_aui_detailpage_o09_s04) attachments. We have two of each and I use them every day.
 
@@ -103,11 +104,10 @@ ___
 
 ### THE GOOD
 
-+ Here are the 4 toys we have for Locke at 4 months, they're all pretty good - grabby ball, Sophie, Captain Calamari, the Winkel
-+ Soothers are weird - we have like 10 and he sometimes likes them and sometimes doesn't. The one thing he consistently likes is his WubbaNub - it's easier for him to grab and hold in his mouth or pull out. Definitely ask for one of these
-we had to go through a million different kinds by the time he was 2. He loved them but different ones than all the other kids, seems like a personal preference thing on the part of the kiddo ;p
++ Here are the 4 toys we have for Locke at 4 months, they're all pretty good - [grabby ball](https://amzn.to/2MRQY6a), [Sophie](https://amzn.to/2Dki3uA), Captain Calamari, the [Winkel](https://amzn.to/2MUqcKB)
++ Soothers are weird - we have like 10 and he sometimes likes them and sometimes doesn't. The one thing he consistently likes is his [WubbaNub](https://amzn.to/2t9bDcZ) - it's easier for him to grab and hold in his mouth or pull out. Definitely ask for one of these we had to go through a million different kinds by the time he was 2. He loved them but different ones than all the other kids, seems like a personal preference thing on the part of the kiddo ;p
 + For the first 6 weeks an activity mat is nothing more than a place for them to lie comfortably. you can accomplish this with a nice blanket. But at about 8 weeks they suddenly notice that there is this *stuff* hovering over them and then they're SUPER excited about it. Currently Captain Calamari is hanging on our activity center and Locke loves it
-+ You don't need to get a fancy swing like this one (ours was a hand-me down) but do get some sort of swing/chair. We have this one as well and it's great because we put it on the couch or table with us when we're trying to do something. Since we have the mamaroo we didn't get a swing but I know folks who swear by ones like this. Babies really do fall asleep in these so you'll have a surprise 30 minutes to do something. Highly recommend.
++ You don't need to get a fancy swing [like this one](https://amzn.to/2WONLJa) (ours was a hand-me down) but do get some sort of swing/chair. We have [this one](https://amzn.to/2Ggyqw8) as well and it's great because we put it on the couch or table ((Yes, I know you aren’t supposed to do this….) with us when we're trying to do something. Since we have the Mamaroo we didn't get a swing but I know folks who swear by ones like this. Babies really do fall asleep in these so you'll have a surprise 30 minutes to do something. Highly recommend.
 
 ---
 
@@ -123,7 +123,7 @@ We have an [UppaBaby Vista](http://uppababy.com/vista/overview/) which came with
 
 ### MEH
 
-+ We have one of these mirrors for the car. But at this point it's a distraction for me. Maybe it'll be better when he's bigger and understands? (NOTE: I WAS SO WRONG, once he was >5 months I used this ALL THE TIME - I'd probably even say this is a *MUST*) MommaFinds concurs that after 5+ months, this is awesome. Helps you see if they're asleep. They can see you and be engaged. Pain to get in the right position, but super helpful when you do.
++ We have one of these [mirrors](https://amzn.to/2t9dHSp) for the car. But at this point it's a distraction for me. Maybe it'll be better when he's bigger and understands? (NOTE: I WAS SO WRONG, once he was >5 months I used this ALL THE TIME - I'd probably even say this is a *MUST*) MommaFinds concurs that after 5+ months, this is awesome. Helps you see if they're asleep. They can see you and be engaged. Pain to get in the right position, but super helpful when you do.
 
 ---
 
