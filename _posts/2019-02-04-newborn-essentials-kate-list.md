@@ -82,7 +82,7 @@ ___
 
 ### THE GOOD
 
-+ [4moms spout cover](https://amzn.to/2BpuVPJ) - Recent Update: we are still using this with Locke at 3!
++ [4moms spout cover](https://amzn.to/2BpuVPJ) - Recent Update: we are still using this with baby at 3!
 + We had this [bathtub](https://amzn.to/2UF4Jb4) (a shower gift) that worked great!
 + Pick a hooded towel of your choice - I love the [lobster one we got](https://amzn.to/2WPs2ke).
 + Get some really soft, thin [washcloths](https://amzn.to/2DXgKDd) - you'll use them for baby's face and hands and neck folds (where lint gets trapped!)
@@ -104,9 +104,9 @@ ___
 
 ### THE GOOD
 
-+ Here are the 4 toys we have for Locke at 4 months, they're all pretty good - [grabby ball](https://amzn.to/2MRQY6a), [Sophie](https://amzn.to/2Dki3uA), Captain Calamari, the [Winkel](https://amzn.to/2MUqcKB)
++ Here are the 4 toys we have for baby at 4 months, they're all pretty good - [grabby ball](https://amzn.to/2MRQY6a), [Sophie](https://amzn.to/2Dki3uA), Captain Calamari, the [Winkel](https://amzn.to/2MUqcKB)
 + Soothers are weird - we have like 10 and he sometimes likes them and sometimes doesn't. The one thing he consistently likes is his [WubbaNub](https://amzn.to/2t9bDcZ) - it's easier for him to grab and hold in his mouth or pull out. Definitely ask for one of these we had to go through a million different kinds by the time he was 2. He loved them but different ones than all the other kids, seems like a personal preference thing on the part of the kiddo ;p
-+ For the first 6 weeks an activity mat is nothing more than a place for them to lie comfortably. you can accomplish this with a nice blanket. But at about 8 weeks they suddenly notice that there is this *stuff* hovering over them and then they're SUPER excited about it. Currently Captain Calamari is hanging on our activity center and Locke loves it
++ For the first 6 weeks an activity mat is nothing more than a place for them to lie comfortably. you can accomplish this with a nice blanket. But at about 8 weeks they suddenly notice that there is this *stuff* hovering over them and then they're SUPER excited about it. Currently Captain Calamari is hanging on our activity center and baby loves it
 + You don't need to get a fancy swing [like this one](https://amzn.to/2WONLJa) (ours was a hand-me down) but do get some sort of swing/chair. We have [this one](https://amzn.to/2Ggyqw8) as well and it's great because we put it on the couch or table ((Yes, I know you aren’t supposed to do this….) with us when we're trying to do something. Since we have the Mamaroo we didn't get a swing but I know folks who swear by ones like this. Babies really do fall asleep in these so you'll have a surprise 30 minutes to do something. Highly recommend.
 
 ---
@@ -115,7 +115,7 @@ ___
 
 + We have a [Chicco Keyfit 30 car seat](https://amzn.to/2UNObxP) - it's one of the smallest, lightest car seats and it's still quite heavy. Try to get one that comes with an infant insert and if you plan on transporting the kid in more than one car, try to get an extra base. The base is AMAZING because all you do is drop the car seat into it, it clicks and you're good to go. No buckling the car seat in. (though that's still an option)
 + Stroller - I would recommend looking on craigslist for a stroller, new ones are BRUTAL expensive and the used ones tend to be in really good condition and you can get them for 1/5th the price of a new one. They can still be expensive. When you choose one make sure you get a car seat attachment so you can just plug your carseat into the stroller (or get the stroller that goes with your carseat), it's great when the kid is sleeping in the car seat and you just want to move them to the stroller
-We have an [UppaBaby Vista](http://uppababy.com/vista/overview/) which came with a bassinet that we used for Locke to sleep in the first few months. Make sure the stroller you pick fits in your trunk, we're having issues with that....
+We have an [UppaBaby Vista](http://uppababy.com/vista/overview/) which came with a bassinet that we used for baby to sleep in the first few months. Make sure the stroller you pick fits in your trunk, we're having issues with that....
 + Get a stroller organizer of some sort. It's great to have your phone, wallet, keys and drink close by
 + This sounds silly but I LOVE the [carseat canopy](https://amzn.to/2TAm8lh)  - when it's cold it creates a pocket of warmth for baby, when they're sleeping you can keep it dark and quite so they sleep better and you can use it as a blanket! So good.
 + Get a supply of gallon freezer bags and stick them in your diaper bag for dirty diapers. You can buy dry/wet bags but I just use freezer bags and empty them into the diaper genie when I get home. I get 5-10 uses a bag before they get too smelly. As I said above, doggie poop bags work just as well.
