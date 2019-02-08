@@ -54,7 +54,7 @@ ___
 
 ### THE GOOD:
 
-+ I found a lot of these [changing stations](http://www.iloveyoumorethancarrots.com/2013/01/changing-table-organization-must-haves.html) on Pinterest and I did something similar. I's the best! I love the bins because it means I don't forget what I have or lose something at the back of a drawer. Also when baby starts to roll over I only needed one hand to get in these bins and thus can keep a hand on him.
++ I found a lot of these [changing stations](http://www.iloveyoumorethancarrots.com/2013/01/changing-table-organization-must-haves.html) on Pinterest and I did something similar. It's the best! I love the bins because it means I don't forget what I have or lose something at the back of a drawer. Also when baby starts to roll over I only needed one hand to get in these bins and thus can keep a hand on him.
 + I'd suggest you get one of the [curved changing pads](https://amzn.to/2SomJck). They're all a pretty standard size and we got him some really soft [changing covers](https://amzn.to/2HPQwGX) (buy two, you'll wash them a lot).
 + Diaper rash happens! When baby gets really bad diaper rash I put [Aquaphor](https://amzn.to/2WHoQYf) on him - it also doubles as a baby moisturizer. Also get some small tubes of Aquaphor for your diaper bag.
 + Wipes and Diapers are kind of a personal preference. We use [Pampers Swaddlers Sensitive](https://amzn.to/2DU7mAj) and Seventh Generation Free and Clear wipes. Diapers are kind of weird because they all have different styles and some fit kids better than others. Here's a whole MommaFinds post about diapers to get you started.
