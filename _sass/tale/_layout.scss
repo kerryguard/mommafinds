@@ -4,7 +4,7 @@ background-size:100%;
 text-align: center;
 color: #fff;
 height: 100vh;
-padding: 10em;
+padding-top: 10em;
 background-repeat: no-repeat;
 }
 
@@ -103,6 +103,7 @@ footer,
 @media (max-width: 414px) {
   .about.hero {
   background-size:220%;
+  background-position-x: center;
   }
 }
 
