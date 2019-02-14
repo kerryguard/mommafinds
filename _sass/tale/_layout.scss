@@ -19,8 +19,12 @@ section.about.hero::after{background-color: #000;height: 100vh;}
   font-size: 6em;
   color: #fff;
   font-weight: 400;
+  margin-bottom: 0;
 }
-.about .subtext {font-size: 1.5em;}
+.about .subtext {
+  font-size: 1.5em;
+  padding-bottom: 1.5em;
+}
 .about a.button {
   color: #fff;
   background-color: #b400ff;
