@@ -8,6 +8,11 @@ padding-top: 5em;
 background-repeat: no-repeat;
 }
 
+.about.hero .block {
+padding-bottom: 1.5em;
+background: rgba(0,0,0,.35);
+}
+
 section.about.hero::after{background-color: #000;height: 100vh;}
 
 .about h1 {
@@ -15,9 +20,8 @@ section.about.hero::after{background-color: #000;height: 100vh;}
   color: #fff;
   font-weight: 400;
 }
-
 .about .subtext {font-size: 1.5em;}
-.about .subtext a.button {
+.about a.button {
   color: #fff;
   background-color: #b400ff;
   padding: 1em 1.5em;
