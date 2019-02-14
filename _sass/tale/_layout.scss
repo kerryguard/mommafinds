@@ -98,10 +98,14 @@ footer,
       right: 0;
     }
   }
+}
+
+@media (max-width: 414px) {
   .about.hero {
   background-size:220%;
   }
 }
+
 
 footer {
   font-family: $serif-secondary;
