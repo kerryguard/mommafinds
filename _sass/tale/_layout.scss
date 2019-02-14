@@ -4,16 +4,25 @@ background-size:100%;
 text-align: center;
 color: #fff;
 height: 100vh;
-padding-top: 10em;
+padding-top: 5em;
 background-repeat: no-repeat;
 }
 
 .about.hero::after{background-color: #000;}
 
 .about h1 {
-  font-size: 3em;
+  font-size: 6em;
   color: #fff;
   font-weight: 400;
+}
+
+.about .subtext {font-size: 1.5em;}
+.about .subtext .button {
+  color: #fff;
+  background-color: #b400ff;
+  padding: 1em 1.5em;
+  border: 1px solid #333;
+  border-radius: 5px;
 }
 
 .container {
