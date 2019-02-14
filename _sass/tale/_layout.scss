@@ -1,11 +1,11 @@
 .about.hero {
-background:url(/assets/about-hero.jpg);
-background-size:100%;
-text-align: center;
-color: #fff;
-height: 100vh;
-padding-top: 5em;
-background-repeat: no-repeat;
+  background:url(/assets/about-hero.jpg);
+  background-size:100%;
+  text-align: center;
+  color: #fff;
+  height: 100vh;
+  padding-top: 10em;
+  background-repeat: no-repeat;
 }
 
 .about.hero .block {
@@ -33,6 +33,15 @@ section.about.hero::after{background-color: #000;height: 100vh;}
   border: 1px solid #333;
   border-radius: 5px;
 }
+
+@media (max-width: 414px) {
+  .about.hero {
+  background-size:220%;
+  background-position-x: center;
+  padding-top: 5em;
+  }
+}
+
 
 .container {
   margin: 0 auto;
@@ -118,12 +127,6 @@ footer,
   }
 }
 
-@media (max-width: 414px) {
-  .about.hero {
-  background-size:220%;
-  background-position-x: center;
-  }
-}
 
 
 footer {
