@@ -5,9 +5,10 @@ text-align: center;
 color: #fff;
 height: 100vh;
 padding: 10em;
+background-repeat: no-repeat;
 }
 
-.about.hero::before{background-color: #000;}
+.about.hero::after{background-color: #000;}
 
 .about h1 {
   font-size: 3em;
@@ -96,6 +97,9 @@ footer,
       position: absolute;
       right: 0;
     }
+  }
+  .about.hero {
+  background-size:220%;
   }
 }
 
