@@ -16,15 +16,7 @@ At week 5 in my pregnancy, I had a complication (a story for another day), that 
 
 Mind you, I'm 5'3" and at the time 115 pounds(ish). And now I was faced with carrying twins. My doctor said he wanted me to gain 40 pounds (which I did - right on the nose). 34% of my body weight.
 
-So, how the hell did I make it to term? I have NO Idea. I look at the pictures and I look like a cartoon character. I look back and still have no idea if it was pure luck, or if these three things were positive contributions.
-
-___
-
-## SCAN SCANS SCANS
-
-I ended up at a special clinic, prescribed by my OBGYN, where I was scanned monthly. Each part of each baby was measured every, single, time. While this was one of the the most uncomfortable parts of being pregnant, I believe - and backed up by [What to Expect](https://www.eatwell101.com/cheese-steak-stuffed-peppers-recipe#ing) - that this was a major factor in me making it to 38 weeks. If anything was wrong, they would have found it very early! Which there wasn't - hence that luck certainly played a part.
-
-BTW - it was uncomfortable because I had to lay flat and with the technician pressing hard on my belly in every direction, it made me incredibly nauseous to almost the point of passing out. But nothing beats peace of mind. I'd do it all over again just the same.
+So, how the hell did I make it to term? I have NO Idea. I look at the pictures and I look like a cartoon character. I look back and still have no idea if it was pure luck, or if these had positive contributions.
 
 ___
 
@@ -42,7 +34,7 @@ While there are many benefits to exercise during pregnancy, it's highly recommen
 
 ___
 
-## CLOTHING SUPPORT
+## TRICKS OF THE TRADE
 
 Carrying 40 extra pounds of weight - especially by week 36 - can literally be back breaking. I was surprisingly okay. I had other problems, like not being able to eat even though I was starving as I had ZERO room in my stomach by the end. I had morning sickness the entire time of pregnancy that only [Diglegis](https://www.diclegis.com/en/diclegis/what-is-diclegis) and carbs - soft pretzels flown in from Philly to be exact - could curb.
 
