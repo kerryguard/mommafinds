@@ -8,7 +8,7 @@ img: kerry-guard-pregnant.jpg
 
 ![MommaFinds 36 Weeks with Twins](/assets/{{ page.img }})
 
-> Quote of the Week <br> ""Spending time with your children<br>is one thing you'll never regret."" ~ [Nurturing Life](https://www.facebook.com/nurturinglifeinfuturegenerations/?tn-str=k%2AF)
+> Quote of the Week <br> "I may not have gone where I intended to go,<br>but I think I've ended up where I need to be.)
 
 ## HOW I MADE IT TO 38 WEEKS (BARELY)
 
