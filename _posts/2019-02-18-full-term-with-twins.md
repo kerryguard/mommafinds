@@ -12,7 +12,7 @@ img: kerry-guard-pregnant.jpg
 
 ## HOW I MADE IT TO 38 WEEKS (BARELY)
 
-At week 5 in my pregnancy, I had a complication (a story for another day), that sent me to the ER then required me to have scans every week for another 6 weeks. At week 5 there was only one sack and no heartbeat (too early). My husband was with me for that one. The next week, I went alone, because it didn't seem reasonable for him to miss work so early in the process. Week six scan... Two Heartbeats. Two. TWO! And I found while I was alone. I drove home alone - freaking out. When my husband got home, I told him over sparkling cider and a giant bar of chocolate. We hugged a lot. And said, "Two" a. lot.
+At week 5 in my pregnancy, I had a complication (a story for another day), that sent me to the ER then required me to have scans every week for another 6 weeks. At week 5 there was only one sack and no heartbeat (too early). My husband was with me for that one. The next week, I went alone, because it didn't seem reasonable for him to miss work so early in the process. Week six scan... Two Heartbeats. Two. TWO! And I found out while I was alone. I drove home alone - freaking out. When my husband got home, I told him over sparkling cider and a giant bar of chocolate. We hugged a lot. And said, "Two" a. lot.
 
 Mind you, I'm 5'3" and at the time 115 pounds(ish). And now I was faced with carrying twins. My doctor said he wanted me to gain 40 pounds (which I did - right on the nose). 34% of my body weight.
 
