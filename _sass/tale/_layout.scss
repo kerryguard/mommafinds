@@ -34,6 +34,8 @@ section.about.hero::after{background-color: #000;height: 100vh;}
   border-radius: 5px;
 }
 
+.about.
+
 .about.how-it-work h2 {text-align: center;}
 
 @media (max-width: 414px) {
@@ -41,6 +43,11 @@ section.about.hero::after{background-color: #000;height: 100vh;}
   background-size:220%;
   background-position-x: center;
   padding-top: 5em;
+  }
+
+  .about.hero .block {
+  height: inherit;
+  margin-bottom: 5em;
   }
 }
 
