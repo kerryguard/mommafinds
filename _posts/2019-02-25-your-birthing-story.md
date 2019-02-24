@@ -10,7 +10,7 @@ img: kerry-birth.jpg
 
 > Quote of the Week <br> "Giving birth should be your<br>greatest achievement.<br>Not your greatest fear."<br>~Jane Weidemen
 
-## YOUR FRIEND IS PREGNANT WITH BABY NUMBER ONE
+## Your Friend is Pregnant with Baby Number 1
 
 YAY! And super congrats to that friend. First babies are so exciting and terrifying because they've never done any of this before and have no idea WHAT to expect. All the reading in the world won't prepare them for what comes next. Also, no amount of what you can tell them will prepare them either.
 
@@ -18,7 +18,7 @@ Two quick stories.
 
 ___
 
-## WHEN I GOT PREGNANT
+## When I Got Pregnant
 
 When I got pregnant pretty much, exactly 4 years ago, I started telling people who had kids. Straight after the hugs and celebrations came all the advice and stories. The first stories I heard were about labor and delivery. And not good ones - like it was euphoric and everything went perfectly and there was little to no taring and happily ever after.
 
@@ -32,7 +32,7 @@ Yay! Congrats, you're pregnant...
 
 ___
 
-## WHEN MY FRIEND GO PREGNANT
+## When My Friend Got Pregnant
 
 When my close friend's wife got pregnant - around the 7 month mark we all went out for lunch. I was so excited for them I had a complete word vomit about everything and anything.
 
@@ -48,7 +48,7 @@ If I could go back and sit across from that same friend, instead of launching ev
 
 ---
 
-## FIND YOUR HAPPY MEDIUM
+## Find Your Happy Medium
 
 I wish I was a better listener to my friends. I'm still working on it in life and work.  
 
