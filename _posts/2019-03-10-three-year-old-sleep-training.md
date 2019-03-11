@@ -51,7 +51,7 @@ Short and sweet. Tubby, pjs, teeth, story, lights out all in 30 minutes with two
 
 Bath time is 15 minutes tops, PJs and teeth in 5 minutes, then one book each, lights out. 
 
-One thing Amy mentions is when you're trying a new routine to actually walk through and practice it. So one afternoon, after naps, I had the kids walk through their new bedtime routine. The important piece to this - is reversing the roles so that they watch you do and pretend the are the parents. This gives them a chance to do it AND see it. That helped the first night because then there were no surprises on how we were going to run bedtime that night.
+One thing Amy mentions is when you're trying a new routine to actually walk through and practice it. So one afternoon, after naps, I had the kids walk through their new bedtime routine. The important piece to this - reversing the roles so that they watch you do it and pretend they are the parents. This gives them a chance to do it AND see it. That helped the first night because then there were no surprises on how we were going to run bedtime that night.
 
 It runs a bit quick and sometimes a little stressful, but they are in bed with lights out at 8PM.
 
