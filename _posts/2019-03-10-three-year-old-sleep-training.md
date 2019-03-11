@@ -12,9 +12,9 @@ img: three-year-old-napping.jpg
 
 ## Sleep is for the weak
 
-My dad used to use the phrase that phrase. Man can survive on 4 - 5 hours a night.  
+My dad used to use that phrase. Man can survive on 4 - 5 hours a night.  
 
-I think my three old has his genes because for the last few months she has fallen asleep, earliest by 9:45PM and we had to go in her room multiple times between 8:30 and 9:45PM until she did.
+I think my three old has his genes because for the last few months (maybe longer) she has fallen asleep, earliest by 9:45PM and we had to go in her room multiple times between 8:30 and 9:45PM until she did.
 
 Here was our bedtime routine:
 + 7:30 - Bath
