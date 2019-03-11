@@ -42,7 +42,8 @@ ___
 Starting at 7PM, I give each child 15 minutes of my undivided attention, one on one. I take turns, baby girl first one night, then baby boy second. Then I switch the next day. 
 
 I just need to emphasis, how much my kids LOVE this time. They look forward to it all day. As soon as dinner is done they're asking about it. This works. I stopped doing it the last few weeks because I'm between nannies, work has been insane, and my husband has been on site for work all week, and I just didn't have the energy for this... which backfired at bedtime BIG time. So 7PM - Special Time has been reinstated.
-___
+
+---
 
 ## Shorten Bedtime Routine
 
