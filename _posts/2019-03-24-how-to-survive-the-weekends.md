@@ -12,7 +12,7 @@ img: outside.jpg
 
 ## How To Survive The Dreaded Weekends
 
-You know your parent when you chose sleep over a shower,
+You know you're parent when you chose sleep over a shower,
 
 When all your meals are cold,
 
