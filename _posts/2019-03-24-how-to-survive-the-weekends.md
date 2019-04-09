@@ -1,59 +1,70 @@
 ---
 layout: post
-title: How To Get A Toddler Outside In The Rain
-meta: Gear up! Spring is here and now that the weather is defrosted it's time to enjoy the outdoors no matter the weather, and the easiest way to do this is to have the right gear. Here's what you need.
+title: How to Survive the Weekend with Toddlers
+meta: The answer is simple. Get out of the house.
 author: "Kerry"
-img: spring-with-toddlers.jpg
+img: outside.jpg
 ---
 
-![MommaFinds Playing in the Rain With Toddlers](/assets/{{ page.img }})
 
-> Quote of the Week <br> "Singing in the rain!<br>What a glorious feeling.<br>I'm happy again!"<br>~ Gene Kelly
+![MommaFinds Getting The Kids Outside to Survive the Dreaded Weekends](/assets/{{ page.img }})
 
-## Hello Spring!  
+> Quote of the Week <br> "Just keep swimming..."<br>~ Dory
 
-<<<<<<< HEAD
-This was a fun, but super cold, North of the Wall kind of winter for us Pacific Northerners. We had MOUNTAINS of snow which turned to slush and we were buried for weeks with no end in sight. Seattle doesn't get snow that often so digging out of Winterfell... not our forte. 
-=======
+## How To Survive The Dreaded Weekends
+
 You know your parent when you chose sleep over a shower,
->>>>>>> parent of 69d498d... typo fix
 
-But enough about Winter, because Spring is here! And it's time to shed the fur layers, get our butts off the sofa and, as my son liked to say (as his first word), go OUSIIIIIIIIIIIIIIIIIIIIIIIIIDE!
+When all your meals are cold,
 
-Now that it's warm, rain or shine we are outside. Once you have the right gear, it's easy to play no matter the weather.
+When Siri recognizes your favorite playlist as "Babies' tunes",
+
+When you actually dread Fridays look forward to Mondays...
+
+When having a full time job, nothing was more exciting than getting to Friday and getting to turn your brain off with sleeping in, watching TV all day, and going out in the evenings for a hot romantic meal (and by hot I mean temperature).
+
+Once you're a parent, you do none of those things on the weekends.
+
+Kids are up at 7 no matter what day it is. The TV is NOT on all day - at least in our house it's not on at all. I'm on my feet all day cooking three meals a day instead of one or two and by the time I sit down, after getting everything for everyone else, my meal is cold (although that's everyday).
+
+The hardest part about the weekends is keeping the kids entertained. Or they're really good at entertaining themselves inside, but then the side effect of that is walking around and picking up all their toys all day long. The weekends are long and a different kind of exhausting and as parents we tend to dread them.
 
 ___
 
-## Pros and Cons of Playing In the Rain
+## Outsiiiiiiiiiiiide of the house
 
-Playing in the rain isn't always fun and games...
+The best way I found to survive the weekends is to keep moving. This comes with its own pros and cons. Let's talk pros first.
 
 **Pros**
 
-What kid doesn't LOVE splashing in the puddles? We get awesome puddles, practically lakes, at our nearby park and the kids just love making big splashes for hours.
-
-Like my last post, [about surviving the weekends](http://www.mommafinds.com/2019/03/24/how-to-survive-the-weekends/), this is a GREAT way to tire them out for bedtime. So much running.
-
-It's critical for a [child's development to play outside](https://www.livestrong.com/article/141891-the-benefits-outdoor-play-children/). Actually in some states they are creating laws for schools [in mandating recess](https://www.edutopia.org/article/time-play-more-state-laws-require-recess) - which weather permitting - is time outside. In Washington for our drop-in daycare, they have a whole basket of outdoor clothes for kids so they can go play outside, rain or shine, mud or dry.
+1. My kids LOVE a change of scenery. They're home all week long with the nanny. So getting out of the house during the weekend is always a welcome change. My son now asks Saturday mornings, "Where are we going to?"
+2. When my kids are in a new environment their behavior is a God send. They use their calm voices. They are polite. They are on their best behavior (most of the time).
+3. Clean up is nominal to non existent. Unless we're at a friend's house for a playdate - there's little to no clean up. Might need to wash some snack containers or clothes from an accident, but beats running around the house trying to put things away all. day. long.
+4. They sleep better. Wear them out! Since we got my son his bike, getting him out and riding makes him nap harder, he goes right to bed like a gem, and sleeps until 7.
 
 **Cons**
-
-Without the right gear, kids get soaked and if their sensitive, like my munchkins then they won't want to walk home soggy. I actually remember trying to change my daughter's pants in the middle of a wet field. Imagine it. She's balancing on my hovering knee (because I don't want to actually kneel on the wet ground and get my own pants wet), with her boots off trying to not touch the wet grass in her somewhat dry socks. It was quite the ordeal at the time and now completely comical because this is what we mom's do... it was that or carrying her up hill while she cried. I chose the ridiculous option.
+1. Sometimes it's a B*tch to get out of the house. Get dressed, pack snacks, go potty, shoes, jackets, get in the car, decide where you're going.
+2. Decide where you're going.... you need somewhere to go and the same haunts every weekend get OLD. Create a variety of favorites and don't be afraid to try new places or even go on a short weekend trip (which I will cover later with the help of a friend who travels A LOT)
+3. You're going, going, going all week and not having to go on the weekends would be nice. Just gotta pick your battles. If you don't have the energy to get them out then stay in just find your happy medium between play to entertain and clean up. Get them to help you clean up when it's time and find games the whole family can enjoy.
 
 ---
 
 ## Find Your Happy Medium
 
-I found the best way to do this, and prevent the ridiculous option of trying to change a toddler's pants mid park, is to gear up. Yes it takes MORE time to get ready to get out the door. Yes it's more things to buy. BUT, the joy of them bounding through puddles dry as can be, and having dodged another tearfest is worth it. Also beats trying to entertain them inside all day. Gotta pick my battles and while we can't prevent ALL the tears especially at dinner time and bedtime, this is one way I can.
+We find going out first thing in morning until naps makes the day go faster. Then after naps we either meet at a near by park for a playdate or have a friend over so the friend can do some of the entertaining. It's a shorter time so clean up isn't as terrible.
 
-So, when they were 18 months, I got them each a rain suit and boots and at a very young age we roamed through the neighborhood looking for the biggest puddles we could find. They actually still fit in the 2T suits at almost 3.5. They're a little short, but thanks to rain boots it still does the job. BEST PURCHASE EVER.
+Find a variety of near by places that the whole family enjoys and that changes periodically. In Seattle there's a museum called The Museum of Flight and it's perfect for the whole family. We all have a love of aircraft and/or space. There's plenty of room for the kids to run and explore, and it changes all the time with new planes and exhibits. This is a must have membership.
+
+Again, this is what works for our family. Every family is different. You need to do what works for you and your family. Find YOUR happy medium.
 
 ---
 
 ## Tricks of the Trade
 
-Rain Gear - and actually I just dropped a TON of layers under them and used it as snow gear too:
+For those days you stay in:
++ Board Game: [The Sneaky, Snacky, Squirrel](https://amzn.to/2JCO6wd)
++ Card Game: [Disney's Eye Found It](https://amzn.to/2WoZmOj)
++ Tablet Game: [Osmo](https://amzn.to/2CE0WEy), comes with a camera and iPad stand so your kids use tactile elements to create shapes. I really like this because while it's tablets and screens what kids are actually playing with are puzzles, numbers, and letters
 
-+ [Rain Suit](https://amzn.to/2WPhQYf): I recommend rounding to the next size up. So if they're 18 months get a 2T. If they're in their 2s, get a 3T. You can really roll the sleeves up and theres elastic at the bottom which goes inside the boots anyway so they won't trip over anything.
-+ [Rain Boots](https://amzn.to/2Ul44jA): I got my daughter these. Make sure they're true to size. I got my son the same brand, but a size too big (because they don't have half sizes and he's somewhere RIGHT in the middle of a 7 and 8) and they're pretty much unusable. He cannot walk in them. You can buy clothes that are slightly too big, but I do not reommend it with shoes. [Here is a previous post on buying kids the right size shoe](http://www.mommafinds.com/2018/07/01/baby-first-shoes/).
-+ [Umbrella](https://amzn.to/2WTHYBv): Just for fun :-)
+For the long car rides:
++ [Pinna](https://pinna.fm/): It's a podcast/storytelling app for kids. I LOVE this. It's like little radio shows. They have books you might recognize then their series like Rebel Girls and this new one we found today call Brain On! which asks a question then goes on a quest to answer it like "How we catch a cold." We originally signed up because it used to have Sarah and Duck. It's not just someone reading. It has sound effects and sometimes different voices. The production quality is excellent.
