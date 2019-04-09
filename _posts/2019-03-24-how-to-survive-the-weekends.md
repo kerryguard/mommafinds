@@ -12,7 +12,11 @@ img: spring-with-toddlers.jpg
 
 ## Hello Spring!  
 
+<<<<<<< HEAD
 This was a fun, but super cold, North of the Wall kind of winter for us Pacific Northerners. We had MOUNTAINS of snow which turned to slush and we were buried for weeks with no end in sight. Seattle doesn't get snow that often so digging out of Winterfell... not our forte. 
+=======
+You know your parent when you chose sleep over a shower,
+>>>>>>> parent of 69d498d... typo fix
 
 But enough about Winter, because Spring is here! And it's time to shed the fur layers, get our butts off the sofa and, as my son liked to say (as his first word), go OUSIIIIIIIIIIIIIIIIIIIIIIIIIDE!
 
