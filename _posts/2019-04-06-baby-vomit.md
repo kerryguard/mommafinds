@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't Panic: Infant Vomiting
+title: Don't Panic - Happy Spitters
 meta: There are very few things more terrifying then watching your new baby projectile vomit an entire nursing or bottle session. Here's what's happening and when to panic.
 author: "Kerry"
 img: sitting-up-after-nursing.jpg
@@ -10,7 +10,7 @@ img: sitting-up-after-nursing.jpg
 
 > Quote of the Week <br>"Don't Panic!"<br>~ Douglas Adams
 
-## Don't Panic! (Generally)  
+## Why There Might Not Be A Need To Worry
 
 There is very little more terrifying than sitting your baby up after a feed and watching them projectile vomit EVERYTHING they just ate. There's also not much more gross than that, especially when you end up wearing it.
 
@@ -56,7 +56,7 @@ These are babies who are happy, content, and growing well but seem to spit up an
 
 Here are some helpful products:
 
-+ [Nursing Pillow](https://amzn.to/2IxYPqa): This helps to support you and baby so you can get them in a more angled position while nursing so they're not laying too flat.
++ [Nursing Pillow](https://amzn.to/2IxYPqa): This helps to support you and baby so you can get them in a more angled position while nursing so they're not laying too flat. And this is the same pillow my [friend Kate swears by](http://www.mommafinds.com/2019/02/04/newborn-essentials-kate-list/).
 + A chair: Something that props baby up so you don't have to hold them for those 30 minutes after a feed. We had [this bouncy one](https://amzn.to/2IFngkW) that also helped with other things like gas and constipation. Not to mention gave us time back to get things down when baby was a wake, fed, and happy to hanging out.
 + If you're bottle feeding, try different formulas. Baby could have lactose issues which causes them to spit up more or there's something in a particular brand baby's belly doesn't like. Baby's bellies can be so finicky! We used [Baby's Only](https://amzn.to/2Ix14dC) because it's only 5 ingredients, they had a soy version, and it was free of Palm Oil. It was also cost effective when bought by the case.
 + If you're nursing, try [dropping dairy from your diet](https://kellymom.com/health/baby-health/food-sensitivity/) for starters.
