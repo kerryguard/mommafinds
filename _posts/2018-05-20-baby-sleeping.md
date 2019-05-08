@@ -41,7 +41,7 @@ You don't have to do ALL the things. There is no scientific proof that breast fe
 Before baby is 3 months you'll want them to sleep wherever is convenient for you. Some like to co-sleep. There are a lot of advantages to having baby sleep with you, either literally on you or in a bassinet close by. This [blog post](https://kellymom.com/parenting/nighttime/cosleeping/) does a good job laying out safe sleeping environments for newborns.
 
 Nursery guidelines for best sleep conditions:
-+ Dark. Pitch black. You mind as well be entering a cave. Any amount of blue light will wake that baby right up. They'll think it's time to play.&nbsp;In the PNW the when the sun comes during the summer and there aren't black out curtains expect to be, not just woken up, but AWAKE at 5AM.<br>
++ Dark. Pitch black. You mind as well be entering a cave. Any amount of blue light will wake that baby right up. They'll think it's time to play. In the PNW when the sun comes up during the summer and there aren't black out curtains expect to be, not just woken up, but AWAKE at 5AM.<br>
 + Sound machines. They don't have to be loud to drown out the noise around them. It prevents the room from being too quiet. They're not used to quiet. In the womb there was always a basic humming noise and heartbeat.<br>
 + Keep sleeping area (crib or [floor mattress](http://www.mommafinds.com/2018/07/15/floor-bed/)) free of any loose blankets.<br>
 
