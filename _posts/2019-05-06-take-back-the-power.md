@@ -8,7 +8,7 @@ img: non-negotiable.jpg
 
 ![MommaFinds Taking Back the Power](/assets/{{ page.img }})
 
-> Quote of the Week <br> "Gotta Pick My Battles.<br>I'm happy again!"<br>~ My 3 Year Old
+> Quote of the Week <br> "Gotta Pick My Battles."<br>~ My 3 Year Old
 
 ## My Daughter Is Confused  
 
@@ -74,11 +74,11 @@ If I ask my daughter what she'd like to wear today, she will pick her batgirl pj
 
 Two Options.
 
-It's gotten to the point, where my son will ask me, "What are my options?" Because if I need the kids to do something they're giving me push back, I'll say you have "Two Options". And sometimes it's not really an option. "You can go potty now, before we leave. Or we can just stay home and not go to your friend's house." < not really an option. The kids going to go potty.
+It's gotten to the point, where my son will ask me, "What are my options?" Because if I need the kids to do something they're giving me push back, I'll say you have "Two Options". And sometimes it's not really an option. "You can go potty now, before we leave. Or we can just stay home and not go to your friend's house." < not really an option. The kid's going to go potty.
 
-The non negotiables are easier when you give your kids some power throughout the day. Easy decisions. This or that. These PJs or these (they are exactly the same except one has strawberries on them and the other has watermelon).
+The non negotiables are easier when you give your kids some power throughout the day. Easy decisions. This or that. These PJs or these (they are exactly the same except one has strawberries and the other has watermelon).
 
-Amy from [Positive Parenting Solutions](https://www.positiveparentingsolutions.com/) talks about this in another way. She talks about controlling the child's environment so that they make decisions within non verbal boundaries essentially. So now if I ask my daughter to get dressed, I've hidden her PJs so it's not an option.
+[Positive Parenting Solutions](https://www.positiveparentingsolutions.com/) talks about this in another way. Amy talks about controlling the child's environment so that they make decisions within non verbal boundaries essentially. So now if I ask my daughter to get dressed, I've hidden her PJs so it's not an option.
 
 ---
 
@@ -92,7 +92,7 @@ I've been saying "no" too often which has lead to frustration everywhere.
 
 I'm scaling back. No questions around the non-negotiables (aka, the schedule).
 
-Then going back to my Two Options approach for easy decisions on their part.
+Then going back to my "Two Options" approach for easy decisions on their part.
 
 This is where I've found my happy medium.
 
