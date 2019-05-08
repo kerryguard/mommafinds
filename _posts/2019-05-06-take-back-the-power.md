@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Take Back The Power From Your Toddler
+title: How To Pick Your Battles To Stop the War
 meta: Has your little one started showing signs of absolute defiance where they're telling YOU what to do? Break the cycle. Take back the power.
 author: "Kerry"
 img: non-negotiable.jpg
