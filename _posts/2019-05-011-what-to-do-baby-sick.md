@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What To Do When Your Child Is Sick
-meta: Oh dear. Your child caught a virus. I mean, a nasty, no holds barre, ugly, nothing you or the doctor's can do virus. How do you survive?!
+meta: Your child caught a nasty virus. How do you survive?!
 author: "Kerry"
 img: sick-child.jpg
 ---
