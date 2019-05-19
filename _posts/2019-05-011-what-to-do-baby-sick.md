@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What To Do When Your Child Is Sick
-meta: Your child caught a nasty virus. How do you survive?!
+meta: How to survive your child catching a virus.
 author: "Kerry"
 img: sick-child.jpg
 ---
