@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Prepare Short Term Single Parenting
+title: How to Prepare For Short Term Single Parenting
 meta: How to survive when your partner is out of town.
 author: "Kerry"
 img: partner-away.jpg
