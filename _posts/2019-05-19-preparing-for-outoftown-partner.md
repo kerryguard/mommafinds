@@ -3,10 +3,10 @@ layout: post
 title: How to Prepare Short Term Single Parenting
 meta: How to survive when your partner is out of town.
 author: "Kerry"
-img: out-of-town.jpg
+img: partner-away.jpg
 ---
 
-![MommaFinds Out Of Toan](/assets/{{ page.img }})
+![MommaFinds Out Of Town](/assets/{{ page.img }})
 
 > Quote of the Week <br> "In omnia paratus."<br>~ Life &amp; Death Bergaid
 
