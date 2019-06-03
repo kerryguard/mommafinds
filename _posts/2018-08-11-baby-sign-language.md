@@ -4,6 +4,9 @@ title: Baby Sign Language
 meta: The happy medium in reducing you and baby's frustrations with baby sign language.
 author: "Kerry"
 img: baby-sign-language.jpg
+cat:
+- learning
+- infant
 ---
 
 ![Baby Sign Language](/assets/{{ page.img }})

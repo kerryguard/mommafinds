@@ -4,6 +4,9 @@ title: How Mommas Can Help Save the Whales
 meta: The happy medium in reducing our waste as families to better the world for future generations.
 author: "Kerry"
 img: hand-me-down.jpg
+cat:
+- going-green
+- all-ages
 ---
 
 ![Potty Training](/assets/{{ page.img }})

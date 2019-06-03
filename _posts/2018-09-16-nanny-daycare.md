@@ -4,6 +4,8 @@ title: Should You Hire a Nanny or a Daycare?
 meta: Find your happy medium in building your local village to help raise your children.
 author: "Kerry"
 img: village.jpg
+cat:
+- childcare
 ---
 
 ![Stay at Home Working Momma](/assets/{{ page.img }})

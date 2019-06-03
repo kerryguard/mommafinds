@@ -5,6 +5,9 @@ meta: This week's newsletter helps you find the happy medium when trying to get 
 author: Kerry
 img: sleep.jpg
 alt: Sleep Deprived Momma
+cat:
+- sleep
+- infant
 ---
 
 ## WHEN DO BABIES SLEEP THROUGH THE NIGHT?
