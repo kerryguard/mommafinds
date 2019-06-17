@@ -43,6 +43,7 @@ The Way I Feel is a great definitions book. It's basically helping kids put word
 Daniel Tiger is great is because it gives examples on what makes Daniel feel sad and tools, like a song or painting, to move through those feelings.
 
 And once kids know what these feelings are and what to call them, In My Heart lets our children know that they are allowed to feel all these feelings. They are normal and real and it's okay to have them.
+
 ---
 
 ## Toddler Size Board Books
