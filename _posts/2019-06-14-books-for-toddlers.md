@@ -8,11 +8,11 @@ img: books-toddlers.jpg
 
 ![MommaFinds Books for Toddlers](/assets/{{ page.img }})
 
-> Quote of the Week <br> "The more that you read, the more things you will know.<br> The more that you learn, the more places you’ll go.” <br>– Dr. Seuss
+> Quote of the Week <br> "The more that you read, the more things you will know.<br> The more that you learn, the more places you’ll go.” <br>– [Dr. Seuss](https://amzn.to/2Klngbh)
 
 ## Reading to Toddlers
 
-When my babies were just months old, I set up a bedtime routine not because they were ready for one, but because I wanted to start reading to them. Every night we'd give them a bath, put them in their pjs, have a [bottle or nurse](http://www.mommafinds.com/2018/05/07/breastfeeding-formula/), then under the dimmed light of night I'd snuggle them into me and read my most favorite book... [Owl Moon](https://amzn.to/2Kk3I7e). I read them that one book every night for months. My husband would chime in here and there with some of his favorites too.
+When my babies were just months old, I set up a [bedtime routine](http://www.mommafinds.com/2019/03/10/three-year-old-sleep-training/) not because they were ready for one, but because I wanted to start reading to them. Every night we'd give them a bath, put them in their pjs, have a [bottle or nurse](http://www.mommafinds.com/2018/05/07/breastfeeding-formula/), then under the dimmed light of night I'd snuggle them into me and read my most favorite book... [Owl Moon](https://amzn.to/2Kk3I7e). I read them that one book every night for months. My husband would chime in here and there with some of his favorites too.
 
 To this day, our children LOVE to read. I swear my daughter learned how to walk so she could pick up a book, walk backwards to then plop herself into our laps over and over again, book after book.
 
@@ -70,7 +70,7 @@ They also loved these texture books. Especially when we asked them to find the m
 
 I can't take credit for this one. My husband found Ember City as a graphic novel and started reading it to them at 2. He'd point to each square, say what the characters were saying, giving each character a voice, then narrate through the pictures.
 
-That same summer, my son came across a yellow piece of paper from the fridge and started calling in the instructions. Then him and his twin sister would run around the house pretending to find the way out... just like in the book.
+That same summer, my son came across a yellow piece of paper from the fridge and started calling it the instructions. Then him and his twin sister would run around the house pretending to find the way out... just like in the book.
 
 Ever since they've been taring through a whole host of Graphic Novels. Here's our short list:
 
