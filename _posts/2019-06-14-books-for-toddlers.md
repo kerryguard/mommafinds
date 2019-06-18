@@ -51,15 +51,15 @@ And once kids know what these feelings are and what to call them, In My Heart le
 Board books are the bomb for toddlers and not just because they're a bit more durable (which is helpful for sure), but also because they give the toddler autonomy. A toddler can lift a board book and walk it over to you or sit and read it by themselves. Also, fun fact, board books are generally less expensive.
 
 Here are a few of our favorite board books:
-+ [Pout Pout Fish](https://amzn.to/2KkSYFU)
-+ [Little Blue Truck](https://amzn.to/2KhqCfv)
-+ [The Little Blue Box of Bright and Early Board Books by Dr. Seuss](https://amzn.to/31vfxg9)
 + [Bedtime for Batman](https://amzn.to/2IKB1x1)
 + [Daniel Tiger's Neighborhood (It's in the shape of Trolley)](https://amzn.to/2IMH3NC)
 + [First 100 words](https://amzn.to/2XgwCew)
 + [Giraffes Can't Dance](https://amzn.to/31yPVPF)
++ [Little Blue Truck](https://amzn.to/2KhqCfv)
++ [The Little Blue Box of Bright and Early Board Books by Dr. Seuss](https://amzn.to/31vfxg9)
 + [Little Owl's Night](https://amzn.to/2Rg72kt)
 + [Pajama Time](https://amzn.to/2IPOnbn)
++ [Pout Pout Fish](https://amzn.to/2KkSYFU)
 
 They also loved these texture books. Especially when we asked them to find the mouse in each scene:
 + [That's Not My Dragon](https://amzn.to/2KqzkZ9)
