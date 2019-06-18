@@ -59,6 +59,7 @@ Here are a few of our favorite board books:
 + [First 100 words](https://amzn.to/2XgwCew)
 + [Giraffes Can't Dance](https://amzn.to/31yPVPF)
 + [Little Owl's Night](https://amzn.to/2Rg72kt)
++ [Pajama Time](https://amzn.to/2IPOnbn)
 
 They also loved these texture books. Especially when we asked them to find the mouse in each scene:
 + [That's Not My Dragon](https://amzn.to/2KqzkZ9)
