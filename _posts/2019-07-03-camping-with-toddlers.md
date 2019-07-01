@@ -8,7 +8,7 @@ img: camping-toddlers.jpg
 
 ![MommaFinds Camping with Toddlers](/assets/{{ page.img }})
 
-> Quote of the Week <br> "The more that you read, the more things you will know.<br> The more that you learn, the more places you’ll go.” <br>– [Dr. Seuss](https://amzn.to/2Klngbh)
+> Quote of the Week <br> "We didn't realize we were making memories. We just knew we were having fun.” <br>– Anonymous
 
 ## KISS
 
@@ -18,7 +18,21 @@ We brought rolls and rolls of toilet paper, waaaaaaaaay too much fruit and chips
 
 We had fun though. Enough to want to do it again packing much smarter than we had.
 
-Here's what I will pack next time:
+As most things there are pros and cons to a Camping trip with toddlers.
+
+**Pros:**
++ Inexpensive. Our camp site cost $8/night.
++ Easy to bail - once we decided we had enough, we loaded up the car and were on our way home.
++ It's a great way to get the family out of the house for a weekend and explore the neighboring outdoors. Gives you and your kids an appreciation for nature. We had to teach them about keeping our environment clean and why it was important.
++ Turn off. Devises do not work in the great outdoors. We couldn't sit there and play on our phones. We got to sit around campfires and tell stories and connect with old and new friends.
+
+**Cons:**
++ Packing. Unlike a trip to a hotel you need to bring everything, including the kitchen sink (quite literally).
++ If you don't have it, it's not easy to find unless you're with friends you can borrow things from. We ended up at a gas station who luckily had toothbrushes and some other bits and pieces.
+
+All in all we had fun. It was hard, but I think with some practice it'll get easier. We didn't do a great job packing this time, so with some tweaks I think it'll go even better the second time around.
+
+Here's what I'd pack next time:
 
 ---
 
@@ -61,6 +75,8 @@ Next time I'm going to stick to more dry foods and less fruit. The [Apple Sauce 
 
 And I really recommend straight up meal planning and not diverging from it. Know what you're going to cook for each meal and bring only what you need. Try and use similar ingredients for multiple meals - like we used the cheese, butter, and eggs for multiple meals.
 
+Eating out the night we got there really helped with how much we had to pack and made the first night go a little easier than if we had to cook on top of setting up and getting the kids down for bed.
+
 ---
 
 ## Cooking
@@ -90,28 +106,32 @@ I wish we had a table cloth or something to cover the picnic table. It tended to
 
 ## Sleeping
 
-+ Tent - this was our first time and we weren't sure we were going to like it so we crammed in a [2 person tent](https://amzn.to/2XehwC6). The second night we found having the kids sleep at one end on either side and us sleeping at the other with our feet between them was the best set up. They need their space when they sleep and we don't mind being close to one another. We slept really well considering. If we go again, our friends at a 6 person tent for the 4 of them. They should stand up, bring their bags inside, and use it for sleeping and privacy. We will probably upgrade next time.
-+ Sleeping bag for each person. We got [these for the kids](https://amzn.to/2X9l0WB) and they kept them warm and weren't too bulky given the limited space..
++ Tent - this was our first time and we weren't sure we were going to like it so we crammed in a [2 person tent](https://amzn.to/2XehwC6) we already owned. The second night we found having the kids sleep at one end on either side and us sleeping at the other with our feet between them was the best set up. They need their space when they sleep. We slept really well considering. If we go again, our friends had a 6 person tent for the 4 of them. They could stand up, bring their bags inside, and use it for sleeping and privacy. We will probably upgrade next time.
++ Sleeping bag for each person. We got [these for the kids](https://amzn.to/2X9l0WB) and they kept them warm and weren't too bulky given the limited space.
 + Pillow for each person
 + Each child's lovey - Obvious but let's make not of all necessities
-+ A few books for bedtime and downtime. I did two each - one 5 minute story collection and one smaller book.
++ A [few books](http://www.mommafinds.com/2019/06/14/books-for-toddlers/) for bedtime and downtime. I did two each - one 5 minute story collection and one smaller book.
 + Flashlight for each person and a lantern for the tent
-+ White noise - I didn't have this the first night and it took FOREVER for my kids to fall asleep. I played it the next day at naps and bedtime and they conked right out and slept through the night. GAME CHANGER.
++ White noise - I didn't have this the first night and it took FOREVER for my kids to fall asleep. I played white noise the next day at naps and bedtime and they conked right out and slept through the night. GAME CHANGER.
 
 ---
 
 ## Toiletries and First Aid
 
-+ Toothbrush for each personal (pack an extra incase one falls on the floor)
++ Toothbrush for each person (pack an extra incase one falls on the floor)
 + Toothpaste
 + Hand sanitizer
-+ For you, momma, face wash clothes - just makes you feel refreshed before bed and when you wake up. I take these on planes too. It's a quick reset.
-+ Face Cream with an SPF
++ For you, momma:
+++ Face wash clothes - just makes you feel refreshed before bed and when you wake up. I take these on planes too. It's a quick reset.
+++ Face Cream with an SPF 15+
 + Sunscreen for kids wit 50+ SPF
 + Bug Spray
 + One towel for each person (pack extra if you're planning on swimming)
 + Shampoo and body wash (If there are showers and you're planning on taking one). We only stayed two nights and it wasn't worth it to me as my kids aren't big fans of showers just yet. I washed them and their hair the night before we left and again the night we got home.
 + Toilet paper - the bathroom's at the place we stayed were awesome so we didn't need to bring this, but doesn't hurt just incase.
++ [Standard First Aid Kit](https://amzn.to/2JeiDNu)
+
+I packed all the toiletries and first aid in one sling bag. It went with me on hikes and on bathroom breaks. It kept all these necessities together so I knew right where they were.
 
 ---
 
@@ -125,13 +145,18 @@ I think we could have brought a few more things had we not gone with friends who
 
 ---
 
-
 ## Find Your Happy Medium
 
-We started reading to them at just a few months old and haven't stopped. Their love for reading is magical. To the point where my daughter put down her tablet, leaped off the sofa, and ran to her brother's bed to hear her dad read a story. Books greater than tablets. My work here is done.
+1. Preparation and Packing: Camping is hard work. I think with better preparation and packing it didn't need to be AS hard. My husband did a great job of packing the car in a very utilitarian way, making sure that we could unpack what needed to get stored in the tent, then made most everything accessible when opening up the trunk.
 
-This is a very small selection of our most prized favorites. This list barely scratches the surface of what's out there. OH! [5 Minute Story Collection books](https://amzn.to/2XcGSV1). We have a TON of those and they are great bedtime stories because we read one before bed and there's very little kick back of wanting more. They're the perfect length.
+2. Roll With The Homies: Per a conversation I had with a friend who has camped with her two kids (7 and 2) lots of times, you have to roll with it. That might mean, acknowledging this time around isn't working, packing up the car at first light and heading home.
 
-Anyway, find books  you love and inspire you because if you love reading to them they will fall in love with reading. You'll be more excited about telling them the story, making up silly voices, exaggerating certain words, which will hold their attention and create this unbreakable bond between you.
+I wasn't sure my kids were going to sleep the second night with the sky still so bright and so much outside noise. We actually packed up the car just incase we needed to drive home. The first night I went to bed with the kids. I tried singing to them. Carrying them around outside to fall asleep. Telling them stories. All sorts of antics to get them to sleep. I wasn't about repeat that the second night so I was ready to leave. We got lucky in that they fell asleep and actually slept through the night until 7:30AM, but you never know. Know what you can do and make some plans in case.
 
-As always, you do you and keep finding your happy medium, one page at a time.
+3. Stick to their schedule: I got lucky in that my kids took a 2.5 hour nap. I think it's important because in a place that's very unfamiliar, at least their schedule is something they know - eat, play, eat, nap, play, eat, bed (essentially). This also makes going back home easy too because you don't have to worry about training them back into their routine. It was part of your trip.
+
+4. Go with a group: This was the only reason why I think we went this year. A group of people we were friends/acquaintances with went and this helped tremendously. You were all in it together.
+
+All in all it was really fun to be on the beach and watch our kids step into the Pacific Ocean for the first time. To watch them eat s'mores and chocolate bananas and run around and play chase with their friends. And get sooooooooooo dirty because they were just having too much fun.
+
+As always, you do you Momma, and keep finding your happy medium one night under the stars at a time...
