@@ -48,4 +48,4 @@ If baby finds comfort in a stuffy, you'll need to get back up and keep track of 
 
 In this case there isn't really a case of a happy medium. Either your child takes to a stuffy and that's that or they're blasé about it. There are a lot of beautiful things about watching a child bond with a stuffy and watching their many adventures. Having to ensure it's not lost though is quite the stressful undertaking. I don't know what life looks like without a stuffy because both my kids have them. I imagine it's less stressful in not having to keep track. However, I don't know if that means the kids might need you in order to fall asleep and/or calm down, which isn't necessarily a bad thing, just isn't always the most convenient like if they're at daycare or being babysat or they're twins.
 
-Either way, you just keep doing you, and find your happy medium on snuggle at a time.
+Either way, you just keep doing you, and find your happy medium one snuggle at a time.
