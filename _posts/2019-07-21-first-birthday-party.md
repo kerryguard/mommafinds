@@ -44,7 +44,7 @@ The theme set the colors, party favors, and a hand full of decorations including
 
 ---
 
-## 3. Just East
+## 3. Just Eat
 
 This was the best part I think.... Pizza and chicken nuggets. I come from a family where when you throw a party all the food has to come from our kitchen. It is SO MUCH WORK. Between the prep, cooking, continuous serving, and cleanup. It's insane. I do it because it's what I know. But when I saw that [Papa Johns](https://www.papajohns.com/) car pull up I was like this is brilliant. They used all compost materials and they did take out. Cleanup looked to be a breeze! The chicken nuggets also looked to be a big hit.
 
@@ -58,7 +58,7 @@ Use your network. Our friends had a friend who does baking on the side and she m
 
 She made them this awesome watermelon cake for their daughter's cake smash. And let me tell you. This little one did NOT mess around. She went for it!
 
-One of the biggest stressors for me at these events or throwing these parties is all the sweets. My daughter LOVES sweets and and with all the [current information out there on what Sugar does to the body and brain](https://health.clevelandclinic.org/sugar-how-bad-are-sweets-for-your-kids/), watching my children eat a ton of it sends me into an anxiety spiral to which there feels like no return. So knowing that things are straight up sugar free and still yummy takes all the worry out of it and keeps the fun and joy in it.
+One of the biggest stressors for me at these events or throwing these parties is all the sweets. My daughter LOVES sweets and with all the [current information out there on what Sugar does to the body and brain](https://health.clevelandclinic.org/sugar-how-bad-are-sweets-for-your-kids/), watching my children eat a ton of it sends me into an anxiety spiral to which there feels like no return. So knowing that things are straight up sugar free and still yummy takes all the worry out of it and keeps the fun and joy in it.
 
 
 ## Find Your Happy Medium
