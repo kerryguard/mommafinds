@@ -3,18 +3,17 @@
   background-size:100%;
   text-align: center;
   color: #fff;
-  height: 100vh;
-  padding-top: 10em;
   background-repeat: no-repeat;
 }
 
-.about.hero .block {
-padding-bottom: 1.5em;
-background: rgba(0,0,0,.35);
-width:100%;
+.about.hero::before {
+  background-color: rgba(0,0,0,.5;)
 }
 
-section.about.hero::after{background-color: #000;height: 100vh;}
+.about .container {
+  padding-top: 10em;
+  padding-bottom: 10em;
+}
 
 .about h1 {
   font-size: 6em;
@@ -22,13 +21,14 @@ section.about.hero::after{background-color: #000;height: 100vh;}
   font-weight: 400;
   margin-bottom: 0;
 }
+
 .about .subtext {
   font-size: 1.5em;
   padding-bottom: 1.5em;
 }
 .about a.button {
   color: #fff;
-  background-color: #b400ff;
+  background-color: #FF00FF;
   padding: 1em 1.5em;
   border: 1px solid #333;
   border-radius: 5px;
