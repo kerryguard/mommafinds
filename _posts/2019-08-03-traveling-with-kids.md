@@ -10,13 +10,13 @@ img: traveling-with-kids.jpg
 
 > Quote of the Week <br> "You're off to great places! Today is your day!<br>Your mountain is waiting, so... Get on your way!” <br>– Dr. Suess
 
-## Remain Calm
+## Stay Calm
 
 Traveling with kids is stressful. Going to to store (especially Target) isn't a walk in the park. How do we travel far and wide with kids when we can barely make it down the street?!
 
 I have a friend who has braved planes, trains, and automobiles with her two kids (now 2 and 5). She recently got back from traveling to Australia, by herself with them both. I'm about to travel to Europe with my twins and I had a million question. So I hopped on a podcast with her to hash out how you survive a very long, overnight flight with kids.
 
-Listen to the whole conversation here.
+**[Listen to the whole conversation here.](https://anchor.fm/kerry-guard/episodes/Traveling-with-Kids-e4r8ub)**
 
 ---
 
