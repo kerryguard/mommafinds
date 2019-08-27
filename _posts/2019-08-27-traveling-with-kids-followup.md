@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Followup: Traveling With Kids
+title: Followup - Traveling With Kids
 meta: A followup to my podcast on traveling with kids.
 author: "Kerry"
 img: traveling-with-kids-followup.jpg
