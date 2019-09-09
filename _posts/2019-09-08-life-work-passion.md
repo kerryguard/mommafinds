@@ -8,7 +8,7 @@ img: kimberly-wisley-podcast.jpg
 
 ![MommaFinds {{page.title}}](/assets/{{ page.img }})
 
-> Quote of the Week <br> "I do not regret the things I have done,<br>but those I did not do." <br>~ Lucas, Empire Records
+> Quote of the Week <br> "Life is like riding a bicycle. To keep balance you must keep moving." <br>~ Albert Einstein
 
 ## Doing it All
 
