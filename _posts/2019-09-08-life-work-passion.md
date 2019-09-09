@@ -3,7 +3,7 @@ layout: post
 title: Balancing Life, Work, and a Side Business
 meta: Listen to this podcast of tips and tricks from a Momma Entrepreneur
 author: "Kerry"
-img: kimberly-wisley-podcast.jpg
+img: kimberly-wilsey-podcast.jpg
 ---
 
 ![MommaFinds {{page.title}}](/assets/{{ page.img }})
