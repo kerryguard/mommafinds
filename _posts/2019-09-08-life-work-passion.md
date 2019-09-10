@@ -16,7 +16,7 @@ After 17 years I have reconnected with a friend from middle school who is now a 
 
 Find inspiration in her story in being a mom. Sometimes it's just nice to know we're not alone.
 
-**[Listen to the whole conversation here.](https://anchor.fm/kerry-guard/episodes/Find-Your-Happy-Medium-in-Balancing-Life--Work--and-Your-Passion-Projects-e59ulv)**
+<iframe src="https://anchor.fm/kerry-guard/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ---
 
