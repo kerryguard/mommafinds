@@ -13,7 +13,7 @@ img: trish-ryan-podcast.jpg
 
 ## Start Your Day Here
 
-This week I interviewed a mentor of mine. I got the privilege of living with my Aunt Trish in my early 20s while she was in the THROWS of where am I now as a mom. She has now started a business helping people achieve the life they crave through healthy living habits. Today we talk food, family, and life as a mom.
+This week, learn from health and wellness coach, Trish Ryan on how to get energy back into you body and mind. She teaches me that food is not the enemy and puts me on a track to getting to the life I crave. Living in a fog? Want to sleep allllll the time? Yup. Me too. Listen here and find your happy medium in stepping out of the fog and getting energy back so you too can start living the life you crave.
 
 <iframe src="https://anchor.fm/mommafinds/embed/episodes/Live-the-Life-You-Crave-e5d3gk" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
