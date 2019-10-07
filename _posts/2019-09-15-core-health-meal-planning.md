@@ -1,60 +1,52 @@
 ---
 layout: post
-title: Finding Energy Through Healthy Living with Trish Ryan
-meta: Listen to this podcast on finding your happy medium with food. Food is fuel and eating better can give us more energy, which as mom's, energy is currency.
+title: Find Your Happy Medium This Halloween
+meta: Halloween can be super fun and super stressful. Here are some tips and tricks to find your happy medium this halloween.
 author: "Kerry"
-img: trish-ryan-podcast.jpg
+img: vader-c3po.jpg
 ---
 
 ![MommaFinds {{page.title}}](/assets/{{ page.img }})
 
-> Quote of the Week <br> "Food is Fuel."
+> Quote of the Week <br> "It's just a bunch of Hocus Pocus."
 
+## I Love halloween
 
-## Start Your Day Here
+We're really lucky because our neighborhood doesn't mess around when it comes to the holidays. Especially Halloween. Most everyone decorates their home to some capacity and quite a few homes go all out. The streets FILL with kids on October 31st and we spend time with our nearby friends walking door to door, watching our kids partake in the age old tradition of trick or treat. Their toddler joy is euphoric and I wouldn't skip it for the world.
 
-This week I interviewed a mentor of mine. I got the privilege of living with my Aunt Trish in my early 20s while she was in the THROWS of where am I now as a mom. She has now started a business helping people achieve the life they crave through healthy living habits. Today we talk food, family, and life as a mom.
+However, the euphoria quickly wears off by the next morning where the sugar monsters arrive looking for their sweets...
 
-<iframe src="https://anchor.fm/mommafinds/embed/episodes/Live-the-Life-You-Crave-e5d3gk" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+And even before All Hallows Eve there's planning and back and forth on what costumes we wear. Do we all dress up? Do just the kids dress up? And each day the kids change what they want to be!
 
----
-
-## Food Is Not the Enemy
-
-As Trish kindly reminds me... Food is not the enemy.. Food is fuel and should be treated as such. I have a roadblock with food because there's so much I can't eat that is in everything. She helps me make the mental shift from constantly thinking about the foods I can't eat, to the foods that I can. There are WAY more foods out there that I can eat then that I can't. I just need the right foods and at my finger tips ready to go...
+Here are a few tips and tricks I've uncovered these last 2 years of trick or treating to help you find your happy medium.
 
 ---
 
-## Make a Plan
+## I Am Not A Seamstress
 
-To get the right foods at my fingertips through the week that isn't energy bars and coffee, I need to make a plan. Each Sunday, partner with my husband and figure out what we'd like to eat for the week, shop for the ingredients either in person or by instacart, then be ready to roll each night. One thing Trish recommended that I'm going to do first is to actually start with just me and breakfast. Come up with 5 breakfast options for the week, make it on the weekend, and have things ready to go.
+I completely marvel homemade cosplay and Halloween costumes. I have a few seamstresses in my group of friends and am just in aw of their mastery. I am not a seamstress. I'm sure I could be if I put energy into it, but my passions and limited "me time" lie elsewhere at the moment. And so for Halloween my kids get the store made costumes and that's what works for me.
 
----
+For those that do have knack for making your own, my friend Kate recommends making sure you know EXACTLY what your toddler/preschooler/kindergartener knows what they want to be. Confirm often. Show them pictures of what you're planning to make. And once 100% confirmed, then show them how it comes together. Show them the fabric you bought. Show them after each stage of things being cut out and sewn together. By making them part of the process and [forecasting](http://www.mommafinds.com/2018/11/10/forecast-familiarity/) they're more likely to be invested and want to wear it.
 
-## You Are Not Alone
-
-As mom's we tend to shoulder the burden of dinner. Or even dads will take it on. But that's what happens. We take it all on. And we don't have to. Work with your partner to find what part of meal planning and prep they like. Trish found her husband LOVED to do the shopping. My husband actually doesn't mind the chopping and prep. Work together. Make it a family affair. You don't have to go in it alone.
+If you're going to order from [Amazon](https://amzn.to/2LRB5hs) you still want to make sure they've seen it and are completely onboard with the costume. You'll also want plenty of time because if it doesn't fit, you'll need to send it back and order another size. Also, stock seems to run short closer and closer to October 31st. The first year my kids went out, the C3PO costume for my daughter was too small and too late to order another. She didn't get dressed up that year. At 2 Years Old she wanted to be C3PO and I just thought that was so creative and cool and was really sad when she was just too uncomfortable to walk around the neighborhood in it because it was too small. **Order early and order one size up!** You can always modify it smaller. You can't make it bigger.
 
 ---
 
-## Links We Mentioned
+## Die Sugar. Die.
 
-+ CORE Health - If you want to get more tips and tricks from Trish or even see a sample meal plan, check out her website.
-+ Here are a few of Trish's FAVORITE website for recipes
-++ https://www.thekitchn.com/recipes
-++ https://www.foodnetwork.com
-++ https://www.nytimes.com/column/five-weeknight-dishes
-++ https://www.marthastewart.com/contributor/1078939/sarah-carey
+The thing that stresses me out most about Halloween is all the candy. By Christmas time last year I literally threw away the remaining Halloween candy because I was so tired of battling the [sugar monsters](https://www.ted.com/talks/nicole_avena_how_sugar_affects_the_brain?language=en#t-288417) that my children turn into this time of year.
 
-+ Here are a few options for Food Shopping
-++ [Instacart](https://www.instacart.com/)
-++ [Amazon Fresh](https://amzn.to/2NhGEYn)
-++ Check your local stores too. I know [GIANT](https://www.peapod.com/) and [Safeway Grocery](https://www.safeway.com/home.html) stores deliver as well.
+There's a few things I learned to lower my blood pressure and their sugar intake:
+
+1. My rule has become one piece of candy a day, right after naps. That's enough time for them to burn off the sugar before bed to not disrupt their sleep (most of the time).
+2. After trick or treating, we pour all the candy in the middle. We divvy it up, letting them take only their absolute favorites, and then they trade the rest in for a small toy. Usually a [matchbox car](https://amzn.to/2oap9hP) and [My Little Pony](https://amzn.to/35eMHT0).
 
 ---
 
 ## Find Your Happy Medium
 
-The best way to find your happy medium when it comes to health and well being is to be kind to yourself, as Trish states. Some days our best effort are peanut butter on toast and that's okay. On that on that day that's all we could do.
+My daughter LOVES Halloween. It's all she talks about. We have family in Europe and she wanted to move to be with them, but said we had to move back by Halloween. That's how much she loves it. I can't wait to help them get dressed up this year and walk around with all our friends. And the nights leading up to it we get to walk around our neighborhood and look at all the houses which is the perfect pre bed time ritual.
 
-You do you momma, and keep finding your happy medium one meal at a time.
+With a plan in place of already having their costumes, and setting the candy ground rules I just know this will be the best year yet.
+
+You do you, Momma, and keep finding your happy halloween one fright night at a time.
