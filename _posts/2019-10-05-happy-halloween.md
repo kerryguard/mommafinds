@@ -3,7 +3,7 @@ layout: post
 title: Find Your Happy Medium This Halloween
 meta: Halloween can be super fun and super stressful. Here are some tips and tricks to find your happy medium this halloween.
 author: "Kerry"
-img: vader-c3po.jpg
+img: halloween.jpg
 ---
 
 ![MommaFinds {{page.title}}](/assets/{{ page.img }})
