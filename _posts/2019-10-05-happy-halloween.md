@@ -10,7 +10,7 @@ img: halloween.jpg
 
 > Quote of the Week <br> "It's just a bunch of Hocus Pocus."
 
-## I Love halloween
+## I Love Halloween
 
 We're really lucky because our neighborhood doesn't mess around when it comes to the holidays. Especially Halloween. Most everyone decorates their home to some capacity and quite a few homes go all out. The streets FILL with kids on October 31st and we spend time with our nearby friends walking door to door, watching our kids partake in the age old tradition of trick or treat. Their toddler joy is euphoric and I wouldn't skip it for the world.
 
