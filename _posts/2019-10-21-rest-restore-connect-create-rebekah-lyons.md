@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Find Your Happy Medium This Halloween
-meta: Halloween can be super fun and super stressful. Here are some tips and tricks to find your happy medium this halloween.
+title: Find Your Happy Medium in De-Stressing
+meta: StoryBrand interviewed author, Rebekah Lyons, who just launched a book Rhythm of Renewal. Hear her story.
 author: "Kerry"
-img: halloween.jpg
+img: rebekah-lyons.jpg
 ---
 
 ![MommaFinds {{page.title}}](/assets/{{ page.img }})
 
-> Quote of the Week <br> "It's just a bunch of Hocus Pocus."
+> Quote of the Week <br> "Rest, Restore, Connect, Create."
 
 ## Rhythms of Renewal
 
