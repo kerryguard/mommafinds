@@ -6,7 +6,7 @@ author: "Kerry"
 img: finding-nanny.jpg
 ---
 
-![MommaFinds Three Year Old Falling Asleep](/assets/{{ page.img }})
+![MommaFinds Three Year Old Falling Asleep](/img/{{ page.img }})
 
 > Quote of the Week <br> "Sometimes it takes a wrong turn<br>to get you to the right place.<br>~ Mandy Hale""
 

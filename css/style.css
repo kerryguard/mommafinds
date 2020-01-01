@@ -1,0 +1,139 @@
+/*
+ * This css file includes styles added in the jekyll port of this theme.
+ * To find the original style.css that ships with Airspace, read airspace.css
+ *
+ */
+
+ .italic {
+   font-style: italic;
+ }
+
+ .bold {
+   font-weight: bold;
+ }
+
+ .center-text {
+   text-align: center;
+ }
+
+.post-area {
+  padding: 40px;
+  width: 100%;
+  min-height: 150px;
+  background-color: white;
+  border-bottom: 1px dotted #ddd;
+}
+
+.post-area a:hover {
+  color: #0D0017;
+}
+
+.homepage.header,
+.services.cta {
+  background-position: left;
+  background-position-y: 30%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: relative;
+}
+
+.homepage.header::before,
+.services.cta::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: cover;
+  height: auto;
+  background-color: #333333;
+  opacity: 0.25;
+}
+
+.homepage.header .block {
+  padding-top: 10em;
+  padding-bottom: 10em;
+  padding-left: 0;
+  padding-right: 0;
+  color: #fff;
+  text-align: center;
+}
+
+.homepage.header .block h1 {
+  font-size: 48px;
+
+}
+
+.homepage.cta {
+  background-size: cover;
+  background-position-y: 25%;
+}
+
+.homepage.cta .col-md-3 {
+    padding-top: 4em;
+    padding-bottom: 4em;
+  }
+
+.homepage.cta h2 {
+  font-weight: bold;
+  font-size: 42px;
+}
+
+.homepage.cta .btn {margin-top:0;}
+
+.homepage .btn-primary,
+.services.cta .btn-primary {
+  background-color: #ff008a;
+  border-color:#ff008a;
+  width: 100%;
+  font-size: 18px;
+}
+
+.homepage .block {padding:0 5em;}
+.block, .homepage.give .block {padding: 2em;}
+
+.homepage p, .homepage h3 {font-size: 18px; line-height: 1.5em;}
+.hompeage h3 {font-weight: bold;}
+
+.homepage .modal-header {border: none;}
+
+.homepage.process .block {padding: 5em;}
+.homepage.process .block h2 {font-size:52px;}
+
+@media only screen and (max-width: 768px) {
+  .homepage .block {padding: 2em;}
+  section.homepage {padding: 2em 0;}
+  .homepage.guide .block:first-child {padding: 2em;}
+  .homepage.challenge .btn-primary, .homepage.guide .btn-primary{font-size: 14px;}
+  .homepage.process .block {padding: 2em!important;}
+  .homepage.process .block h2 {font-size:41px;}
+}
+
+section#podcast-header {
+  padding-bottom:3em;
+  background-position-x: center;
+  background-position-y: inherit;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+section.podcast-area {padding-top:3em;}
+section.podcast-area .block { width:33.33%;float:left;padding:1.5em;height:500px;padding-top:1.5em;}
+section.podcast-area .block.about {width:100%;}
+
+#podcast-header h1 { font-size:64px;color:#ff008a;}
+#podcast-header .meta { font-size:24px;line-height:1.5em;padding-bottom:1em;}
+.podcast-area h2 {border-top:3px solid #ff008a;padding-top:1em;}
+
+body #podcast-header iframe {height:100px;}
+
+@media only screen and (max-width: 768px) {
+  section#podcast-header {background-size: cover;}
+  section#podcast-header h1 { font-size:48px;color:#ff008a;}
+  section.podcast-area .block {width:100%;}
+  header {padding:1em;}
+  header .navbar img { width: 40px;}
+
+}

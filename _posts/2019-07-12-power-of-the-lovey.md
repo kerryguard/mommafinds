@@ -6,7 +6,7 @@ author: "Kerry"
 img: lovey.jpg
 ---
 
-![MommaFinds and the Lovey](/assets/{{ page.img }})
+![MommaFinds and the Lovey](/img/{{ page.img }})
 
 > Quote of the Week <br> "That's the power of love!” <br>– Huey Lewis and the News
 

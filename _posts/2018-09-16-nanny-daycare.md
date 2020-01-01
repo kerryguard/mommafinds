@@ -8,7 +8,7 @@ cat:
 - childcare
 ---
 
-![Stay at Home Working Momma](/assets/{{ page.img }})
+![Stay at Home Working Momma](/img/{{ page.img }})
 
 > Quote of the Week <br> "It takes a village <br> to raise a child."<br>~ Africal Proverb
 

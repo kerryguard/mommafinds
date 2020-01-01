@@ -6,7 +6,7 @@ author: "Kerry"
 img: trish-ryan-podcast.jpg
 ---
 
-![MommaFinds {{page.title}}](/assets/{{ page.img }})
+![MommaFinds {{page.title}}](/img/{{ page.img }})
 
 > Quote of the Week <br> "Food is Fuel."
 

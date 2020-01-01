@@ -6,7 +6,7 @@ author: "Kerry"
 img: special-time.jpg
 ---
 
-![Special Quiet Time](/assets/{{ page.img }})
+![Special Quiet Time](/img/{{ page.img }})
 
 > Quote of the Week <br> ""Spending time with your children<br>is one thing you'll never regret."" ~ [Nurturing Life](https://www.facebook.com/nurturinglifeinfuturegenerations/?tn-str=k%2AF)
 

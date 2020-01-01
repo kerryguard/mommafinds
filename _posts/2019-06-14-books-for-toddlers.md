@@ -6,7 +6,7 @@ author: "Kerry"
 img: books-toddlers.jpg
 ---
 
-![MommaFinds Books for Toddlers](/assets/{{ page.img }})
+![MommaFinds Books for Toddlers](/img/{{ page.img }})
 
 > Quote of the Week <br> "The more that you read, the more things you will know.<br> The more that you learn, the more places you’ll go.” <br>– [Dr. Seuss](https://amzn.to/2Klngbh)
 

@@ -6,7 +6,7 @@ author: "Kerry"
 img: language.jpg
 ---
 
-![Speak Their Language](/assets/{{ page.img }})
+![Speak Their Language](/img/{{ page.img }})
 
 > Quote of the Week <br> "The way we talk to our children<br>becomes their inner voice.<br>~ Peggy O'Mara.
 

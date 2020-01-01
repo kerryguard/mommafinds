@@ -6,7 +6,7 @@ author: "Kerry"
 img: sick-child.jpg
 ---
 
-![MommaFinds Sick Child](/assets/{{ page.img }})
+![MommaFinds Sick Child](/img/{{ page.img }})
 
 > Quote of the Week <br> "Grab a spoon."<br>~ Joey Tribbiani
 

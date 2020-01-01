@@ -6,7 +6,7 @@ author: "Kerry"
 img: child-hiding.jpg
 ---
 
-![MommaFinds Child Hiding](/assets/{{ page.img }})
+![MommaFinds Child Hiding](/img/{{ page.img }})
 
 > Quote of the Week <br> "A child seldom needs a good talking to<br>as a good listening to. ~ Robert Brault
 

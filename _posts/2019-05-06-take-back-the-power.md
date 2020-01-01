@@ -6,7 +6,7 @@ author: "Kerry"
 img: non-negotiable.jpg
 ---
 
-![MommaFinds Taking Back the Power](/assets/{{ page.img }})
+![MommaFinds Taking Back the Power](/img/{{ page.img }})
 
 > Quote of the Week <br> "Gotta Pick My Battles."<br>~ My 3 Year Old
 

@@ -6,7 +6,7 @@ author: "Kerry"
 img: babys-first-birthday.jpg
 ---
 
-![MommaFinds {{page.title}}](/assets/{{ page.img }})
+![MommaFinds {{page.title}}](/img/{{ page.img }})
 
 > Quote of the Week <br> "I knew when I met you, <br> An adventure was going to happen.” <br>– Winnie the Pooh
 

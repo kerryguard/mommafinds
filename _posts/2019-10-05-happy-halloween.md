@@ -6,7 +6,7 @@ author: "Kerry"
 img: halloween.jpg
 ---
 
-![MommaFinds {{page.title}}](/assets/{{ page.img }})
+![MommaFinds {{page.title}}](/img/{{ page.img }})
 
 > Quote of the Week <br> "It's just a bunch of Hocus Pocus."
 

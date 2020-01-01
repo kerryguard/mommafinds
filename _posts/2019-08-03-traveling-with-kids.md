@@ -6,7 +6,7 @@ author: "Kerry"
 img: traveling-with-kids.jpg
 ---
 
-![MommaFinds {{page.title}}](/assets/{{ page.img }})
+![MommaFinds {{page.title}}](/img/{{ page.img }})
 
 > Quote of the Week <br> "You're off to great places! Today is your day!<br>Your mountain is waiting, so... Get on your way!” <br>– Dr. Suess
 

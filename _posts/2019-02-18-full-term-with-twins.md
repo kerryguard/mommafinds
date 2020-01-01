@@ -6,7 +6,7 @@ author: "Kerry"
 img: kerry-guard-pregnant.jpg
 ---
 
-![MommaFinds 36 Weeks with Twins](/assets/{{ page.img }})
+![MommaFinds 36 Weeks with Twins](/img/{{ page.img }})
 
 > Quote of the Week <br> "I may not have gone where I intended to go,<br>but I think I've ended up where I need to be.")
 

@@ -6,7 +6,7 @@ author: "Kerry"
 img: roses.jpg
 ---
 
-![Toddler Adventures](/assets/{{ page.img }})
+![Toddler Adventures](/img/{{ page.img }})
 
 > Quote of the Week <br> "Be. Here. Now."
 

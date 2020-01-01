@@ -6,7 +6,7 @@ author: "Kerry"
 img: loop.jpg
 ---
 
-![Trust Your Instincts](/assets/{{ page.img }})
+![Trust Your Instincts](/img/{{ page.img }})
 
 > Quote of the Week <br> "The way we talk to our children<br>becomes their inner voice.<br>~ Peggy O'Mara.
 

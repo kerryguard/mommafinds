@@ -6,7 +6,7 @@ author: "Kerry"
 img: naps.jpg
 ---
 
-![Baby Napping](/assets/{{ page.img }})
+![Baby Napping](/img/{{ page.img }})
 
 > Quote of the Week <br> "Let's begin by taking a<br>smallish nap... or two. <br>- Winnie the Pooh"
 

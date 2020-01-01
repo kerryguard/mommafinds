@@ -6,7 +6,7 @@ author: "Kerry"
 img: positive-parenting.jpg
 ---
 
-![Positive Parenting Solutions](/assets/{{ page.img }})
+![Positive Parenting Solutions](/img/{{ page.img }})
 
 > Quote of the Week <br> "There is no such thing as a perfect parent. So just be a real one." ~ [Gecko & Fly](https://www.geckoandfly.com/25357/positive-parenting-quotes/)
 

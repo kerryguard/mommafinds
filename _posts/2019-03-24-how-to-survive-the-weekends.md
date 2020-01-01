@@ -7,7 +7,7 @@ img: outside.jpg
 ---
 
 
-![MommaFinds Getting The Kids Outside to Survive the Dreaded Weekends](/assets/{{ page.img }})
+![MommaFinds Getting The Kids Outside to Survive the Dreaded Weekends](/img/{{ page.img }})
 
 > Quote of the Week <br> "Just keep swimming..."<br>~ Dory
 

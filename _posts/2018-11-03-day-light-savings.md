@@ -6,7 +6,7 @@ author: "Kerry"
 img: dst.jpg
 ---
 
-![Daylight Savings Time](/assets/{{ page.img }})
+![Daylight Savings Time](/img/{{ page.img }})
 
 > Quote of the Week <br> "You can’t stop time.<br>You can’t capture light.<br>You can only turn your face up<br>and let it rain down." <br> — Kim Edwards"
 

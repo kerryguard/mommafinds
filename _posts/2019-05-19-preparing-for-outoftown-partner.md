@@ -6,7 +6,7 @@ author: "Kerry"
 img: partner-away.jpg
 ---
 
-![MommaFinds Out Of Town](/assets/{{ page.img }})
+![MommaFinds Out Of Town](/img/{{ page.img }})
 
 > Quote of the Week <br> "In omnia paratus."<br>~ Life &amp; Death Bergaid
 

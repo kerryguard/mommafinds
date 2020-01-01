@@ -6,7 +6,7 @@ author: "Kerry"
 img: three-year-old-napping.jpg
 ---
 
-![MommaFinds Three Year Old Falling Asleep](/assets/{{ page.img }})
+![MommaFinds Three Year Old Falling Asleep](/img/{{ page.img }})
 
 > Quote of the Week <br> "The woods are lovely, dark and deep.<br>But I have promises to keep, and<br>miles to go before I sleep.""<br>~ Robert Frost
 

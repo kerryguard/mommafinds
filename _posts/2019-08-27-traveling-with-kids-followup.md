@@ -6,7 +6,7 @@ author: "Kerry"
 img: traveling-with-kids-followup.jpg
 ---
 
-![MommaFinds {{page.title}}](/assets/{{ page.img }})
+![MommaFinds {{page.title}}](/img/{{ page.img }})
 
 > Quote of the Week <br> "I do not regret the things I have done,<br>but those I did not do." <br>~ Lucas, Empire Records
 

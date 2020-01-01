@@ -9,7 +9,7 @@ cat:
 - all-ages
 ---
 
-![Potty Training](/assets/{{ page.img }})
+![Potty Training](/img/{{ page.img }})
 
 > Quote of the Week <br> "Once you need less, you will have more."
 

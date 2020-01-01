@@ -6,7 +6,7 @@ author: "Kerry"
 img: camping-toddlers.jpg
 ---
 
-![MommaFinds Camping with Toddlers](/assets/{{ page.img }})
+![MommaFinds Camping with Toddlers](/img/{{ page.img }})
 
 > Quote of the Week <br> "We didn't realize we were making memories. We just knew we were having fun.” <br>– Anonymous
 

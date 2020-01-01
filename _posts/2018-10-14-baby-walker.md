@@ -6,7 +6,7 @@ author: "Kerry"
 img: walker.jpg
 ---
 
-![Baby Walker](/assets/{{ page.img }})
+![Baby Walker](/img/{{ page.img }})
 
 > Quote of the Week <br> "Baby steps to big dreams"
 

@@ -1,23 +1,13 @@
 <!DOCTYPE html>
+
 <html lang="en">
+
+<head>
 
   {% include head.html %}
 
-  <body>
-    <nav class="nav">
-      <div class="nav-container">
-        <a href="/">
-          <h2 class="nav-title">MommaFinds</h2>
-        </a>
-        <ul>
-          <li><a href="/">Letters</a></li>
-          <li><a href="/subscribe/">Subscribe</a></li>
-        </ul>
-      </div>
-    </nav>
+</head>
 
-    <main>
-      {{ content }}
-    </main>
-
-    {% include footer.html %}
+  {% include header.html %}
+  {{ content }}
+  {% include footer.html %}

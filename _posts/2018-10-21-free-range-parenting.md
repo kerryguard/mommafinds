@@ -6,7 +6,7 @@ author: "Kerry"
 img: free-range.jpg
 ---
 
-![Baby Walker](/assets/{{ page.img }})
+![Baby Walker](/img/{{ page.img }})
 
 > Quote of the Week <br> "Not all who wander are lost."
 

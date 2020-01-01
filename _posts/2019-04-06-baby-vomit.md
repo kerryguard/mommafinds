@@ -6,7 +6,7 @@ author: "Kerry"
 img: sitting-up-after-nursing.jpg
 ---
 
-![Baby Sleeping Sitting Up After Eating](/assets/{{ page.img }})
+![Baby Sleeping Sitting Up After Eating](/img/{{ page.img }})
 
 > Quote of the Week <br>"Don't Panic!"<br>~ Douglas Adams
 

@@ -6,7 +6,7 @@ author: "Kerry"
 img: kimberly-wilsey-podcast.jpg
 ---
 
-![MommaFinds {{page.title}}](/assets/{{ page.img }})
+![MommaFinds {{page.title}}](/img/{{ page.img }})
 
 > Quote of the Week <br> "Life is like riding a bicycle. To keep balance you must keep moving." <br>~ Albert Einstein
 

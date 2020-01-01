@@ -6,7 +6,7 @@ author: "Kerry"
 img: traveling-momma.jpg
 ---
 
-![MommaFinds Child Hiding](/assets/{{ page.img }})
+![MommaFinds Child Hiding](/img/{{ page.img }})
 
 > Quote of the Week <br> "Taking care of yourself doesn't mean me first,<br>it means me too.<br>~ [L.R. Knost](http://www.littleheartsbooks.com/)
 

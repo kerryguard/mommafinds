@@ -6,7 +6,7 @@ author: "Kerry"
 img: rebekah-lyons.jpg
 ---
 
-![MommaFinds {{page.title}}](/assets/{{ page.img }})
+![MommaFinds {{page.title}}](/img/{{ page.img }})
 
 > Quote of the Week <br> "Rest, Restore, Connect, Create."
 

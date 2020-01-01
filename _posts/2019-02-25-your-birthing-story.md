@@ -6,7 +6,7 @@ author: "Kerry"
 img: kerry-birth.jpg
 ---
 
-![MommaFinds Founder Gives Birth](/assets/{{ page.img }})
+![MommaFinds Founder Gives Birth](/img/{{ page.img }})
 
 > Quote of the Week <br> "Giving birth should be your<br>greatest achievement.<br>Not your greatest fear."<br>~Jane Weidemen
 

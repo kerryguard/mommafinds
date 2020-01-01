@@ -9,7 +9,7 @@ cat:
 - infant
 ---
 
-![Baby Sign Language](/assets/{{ page.img }})
+![Baby Sign Language](/img/{{ page.img }})
 
 > Quote of the Week <br> "Only through communication can<br>human life hold meaning."<br>~ Paulo Freire
 

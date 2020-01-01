@@ -6,7 +6,7 @@ author: "Kerry"
 img: familiar.jpg
 ---
 
-![Forecast for Toddlers and Keep Things Familiar](/assets/{{ page.img }})
+![Forecast for Toddlers and Keep Things Familiar](/img/{{ page.img }})
 
 > Quote of the Week <br> "I don't know where I'm going, but I'm on my way!" <br> — Carl Sandberg"
 

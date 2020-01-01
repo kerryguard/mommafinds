@@ -6,7 +6,7 @@ author: "Kerry"
 img: tidying.jpg
 ---
 
-![Tidying Up with Marie Kondo](/assets/{{ page.img }})
+![Tidying Up with Marie Kondo](/img/{{ page.img }})
 
 > Quote of the Week <br> "The Space In Which We Live Should Be For The Person We Are Becoming Now, Not For The Person We Were In The Past." ~ Marie Kondō
 

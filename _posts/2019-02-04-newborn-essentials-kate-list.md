@@ -6,7 +6,7 @@ author: "Kerry"
 img: frances-beatty-photography.jpg
 ---
 
-![Kate's List of Essentials](/assets/{{ page.img }})
+![Kate's List of Essentials](/img/{{ page.img }})
 _Photo by [Frances Beatty](https://www.francesbeatty.com)_
 
 > Quote of the Week <br> "Love what is simple and beautiful.<br>These are the essentials." ~ Ralph Waldo Emerson

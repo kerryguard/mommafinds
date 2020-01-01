@@ -6,7 +6,7 @@ author: "Kerry"
 img: spring-with-toddlers.jpg
 ---
 
-![MommaFinds Playing in the Rain With Toddlers](/assets/{{ page.img }})
+![MommaFinds Playing in the Rain With Toddlers](/img/{{ page.img }})
 
 > Quote of the Week <br> "Singing in the rain!<br>What a glorious feeling.<br>I'm happy again!"<br>~ Gene Kelly
 
