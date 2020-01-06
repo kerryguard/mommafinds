@@ -53,8 +53,6 @@
 }
 
 .homepage.header .block {
-  padding-top: 10em;
-  padding-bottom: 10em;
   padding-left: 0;
   padding-right: 0;
   color: #fff;
@@ -114,5 +112,7 @@
 
 @media only screen and (min-width: 768px) {
   .navbar button {display:none;}
-  .navbar ul {float: none;margin:1em 0;}
+  .navbar ul {float: none;}
   .navbar li {padding-left:1em;}
+  .homepage.header{background-position-y: -350px;}
+  .homepage.header .block {  padding-top: 10em;padding-bottom: 10em;}
