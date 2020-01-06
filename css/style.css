@@ -109,31 +109,10 @@
   .homepage.challenge .btn-primary, .homepage.guide .btn-primary{font-size: 14px;}
   .homepage.process .block {padding: 2em!important;}
   .homepage.process .block h2 {font-size:41px;}
-}
-
-section#podcast-header {
-  padding-bottom:3em;
-  background-position-x: center;
-  background-position-y: inherit;
-  background-repeat: no-repeat;
-  background-size: 100%;
-}
-
-section.podcast-area {padding-top:3em;}
-section.podcast-area .block { width:33.33%;float:left;padding:1.5em;height:500px;padding-top:1.5em;}
-section.podcast-area .block.about {width:100%;}
-
-#podcast-header h1 { font-size:64px;color:#ff008a;}
-#podcast-header .meta { font-size:24px;line-height:1.5em;padding-bottom:1em;}
-.podcast-area h2 {border-top:3px solid #ff008a;padding-top:1em;}
-
-body #podcast-header iframe {height:100px;}
-
-@media only screen and (max-width: 768px) {
-  section#podcast-header {background-size: cover;}
-  section#podcast-header h1 { font-size:48px;color:#ff008a;}
-  section.podcast-area .block {width:100%;}
-  header {padding:1em;}
-  header .navbar img { width: 40px;}
 
 }
+
+@media only screen and (min-width: 768px) {
+  .navbar button {display:none;}
+  .navbar ul {float: none;margin:1em 0;}
+  .navbar li {padding-left:1em;}
